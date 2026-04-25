@@ -29,4 +29,8 @@ Simular um cenário real de negócio para análise de performance e tomada de de
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run Dash_vendas.py
+
+para ver funcionando 
+
+https://dashboard-vendas-g9kujaxjpabcjv2wcqh5nr.streamlit.app
