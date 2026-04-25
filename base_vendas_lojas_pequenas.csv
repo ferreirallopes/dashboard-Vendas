@@ -1,0 +1,1351 @@
+﻿DATA,Nome da Loja,Faturamento Dia,Quantidade de Vendas,Vendas Débito,Vendas Crédito,Vendas Dinheiro,Zona,Canal
+2026-01-26,Loja Norte A,5531.6,172,47,82,43,Norte,Loja Física
+2026-01-26,Loja Norte B,2038.42,83,21,38,24,Norte,Delivery
+2026-01-26,Loja Norte C,1548.1,90,34,37,19,Norte,Delivery
+2026-01-26,Loja Sul A,1861.33,120,47,46,27,Sul,Delivery
+2026-01-26,Loja Sul B,1842.83,113,43,53,17,Sul,Delivery
+2026-01-26,Loja Sul C,2256.09,168,58,60,50,Sul,Delivery
+2026-01-26,Loja Leste A,1844.85,138,47,49,42,Leste,Loja Física
+2026-01-26,Loja Leste B,2646.3,156,59,69,28,Leste,Delivery
+2026-01-26,Loja Leste C,4078.68,148,35,61,52,Leste,Delivery
+2026-01-26,Loja Oeste A,849.08,61,22,21,18,Oeste,Delivery
+2026-01-26,Loja Oeste B,1100.28,67,23,23,21,Oeste,Delivery
+2026-01-26,Loja Oeste C,2768.39,155,48,77,30,Oeste,Loja Física
+2026-01-26,Loja Central A,1550.98,76,27,29,20,Central,Loja Física
+2026-01-26,Loja Central B,1246.1,114,23,34,57,Central,Delivery
+2026-01-26,Loja Central C,2863.37,147,41,49,57,Central,Loja Física
+2026-01-27,Loja Norte A,732.88,52,17,17,18,Norte,Delivery
+2026-01-27,Loja Norte B,3749.84,174,37,75,62,Norte,Delivery
+2026-01-27,Loja Norte C,1893.82,85,21,28,36,Norte,Loja Física
+2026-01-27,Loja Sul A,1057.77,75,16,33,26,Sul,Loja Física
+2026-01-27,Loja Sul B,1773.73,69,13,24,32,Sul,Delivery
+2026-01-27,Loja Sul C,937.47,141,48,67,26,Sul,Loja Física
+2026-01-27,Loja Leste A,2582.99,163,59,75,29,Leste,Loja Física
+2026-01-27,Loja Leste B,4256.48,149,43,62,44,Leste,Loja Física
+2026-01-27,Loja Leste C,3332.08,146,56,54,36,Leste,Loja Física
+2026-01-27,Loja Oeste A,751.02,101,28,50,23,Oeste,Delivery
+2026-01-27,Loja Oeste B,2920.15,99,21,48,30,Oeste,Loja Física
+2026-01-27,Loja Oeste C,2840.05,92,19,37,36,Oeste,Delivery
+2026-01-27,Loja Central A,2742.48,132,31,45,56,Central,Delivery
+2026-01-27,Loja Central B,1181.29,159,38,59,62,Central,Loja Física
+2026-01-27,Loja Central C,1135.3,53,13,20,20,Central,Delivery
+2026-01-28,Loja Norte A,740.75,106,38,45,23,Norte,Delivery
+2026-01-28,Loja Norte B,355.22,61,14,21,26,Norte,Delivery
+2026-01-28,Loja Norte C,1424.46,76,27,36,13,Norte,Loja Física
+2026-01-28,Loja Sul A,3340.84,114,36,56,22,Sul,Delivery
+2026-01-28,Loja Sul B,1607.42,84,27,40,17,Sul,Delivery
+2026-01-28,Loja Sul C,1568.61,173,35,83,55,Sul,Delivery
+2026-01-28,Loja Leste A,2081.75,147,51,58,38,Leste,Loja Física
+2026-01-28,Loja Leste B,757.97,109,38,35,36,Leste,Loja Física
+2026-01-28,Loja Leste C,4204.96,159,51,49,59,Leste,Delivery
+2026-01-28,Loja Oeste A,1662.19,177,40,60,77,Oeste,Loja Física
+2026-01-28,Loja Oeste B,3399.99,110,35,53,22,Oeste,Delivery
+2026-01-28,Loja Oeste C,1219.39,84,27,37,20,Oeste,Delivery
+2026-01-28,Loja Central A,3572.11,123,30,54,39,Central,Delivery
+2026-01-28,Loja Central B,1024.14,112,23,54,35,Central,Loja Física
+2026-01-28,Loja Central C,1529.01,106,29,38,39,Central,Delivery
+2026-01-29,Loja Norte A,499.87,51,15,25,11,Norte,Loja Física
+2026-01-29,Loja Norte B,2903.9,86,19,28,39,Norte,Loja Física
+2026-01-29,Loja Norte C,1912.26,110,31,43,36,Norte,Loja Física
+2026-01-29,Loja Sul A,854.44,100,23,34,43,Sul,Delivery
+2026-01-29,Loja Sul B,2106.28,197,64,69,64,Sul,Delivery
+2026-01-29,Loja Sul C,2296.01,70,19,26,25,Sul,Delivery
+2026-01-29,Loja Leste A,2608.01,162,52,62,48,Leste,Loja Física
+2026-01-29,Loja Leste B,1347.49,173,47,81,45,Leste,Delivery
+2026-01-29,Loja Leste C,2104.52,187,64,65,58,Leste,Delivery
+2026-01-29,Loja Oeste A,1436.64,128,35,53,40,Oeste,Loja Física
+2026-01-29,Loja Oeste B,1053.54,135,39,44,52,Oeste,Loja Física
+2026-01-29,Loja Oeste C,238.65,51,15,22,14,Oeste,Delivery
+2026-01-29,Loja Central A,3330.34,153,59,75,19,Central,Delivery
+2026-01-29,Loja Central B,3243.72,148,48,61,39,Central,Delivery
+2026-01-29,Loja Central C,1505.6,59,13,28,18,Central,Loja Física
+2026-01-30,Loja Norte A,2213.26,99,38,44,17,Norte,Delivery
+2026-01-30,Loja Norte B,3330.84,180,58,67,55,Norte,Loja Física
+2026-01-30,Loja Norte C,3141.04,148,51,51,46,Norte,Loja Física
+2026-01-30,Loja Sul A,1985.28,142,47,62,33,Sul,Loja Física
+2026-01-30,Loja Sul B,1536.03,116,45,38,33,Sul,Loja Física
+2026-01-30,Loja Sul C,4450.65,198,72,59,67,Sul,Loja Física
+2026-01-30,Loja Leste A,1810.97,148,46,71,31,Leste,Loja Física
+2026-01-30,Loja Leste B,2094.42,158,45,69,44,Leste,Delivery
+2026-01-30,Loja Leste C,3700.37,200,56,95,49,Leste,Loja Física
+2026-01-30,Loja Oeste A,1269.42,77,27,28,22,Oeste,Loja Física
+2026-01-30,Loja Oeste B,3110.57,118,45,44,29,Oeste,Delivery
+2026-01-30,Loja Oeste C,1587.75,51,18,15,18,Oeste,Loja Física
+2026-01-30,Loja Central A,3150.21,156,51,69,36,Central,Loja Física
+2026-01-30,Loja Central B,960.51,95,32,32,31,Central,Loja Física
+2026-01-30,Loja Central C,5814.42,178,51,82,45,Central,Loja Física
+2026-01-31,Loja Norte A,923.56,101,23,45,33,Norte,Delivery
+2026-01-31,Loja Norte B,3136.04,154,58,49,47,Norte,Loja Física
+2026-01-31,Loja Norte C,546.34,70,19,24,27,Norte,Delivery
+2026-01-31,Loja Sul A,1397.18,57,16,24,17,Sul,Loja Física
+2026-01-31,Loja Sul B,333.89,52,18,15,19,Sul,Loja Física
+2026-01-31,Loja Sul C,883.7,74,26,27,21,Sul,Delivery
+2026-01-31,Loja Leste A,3281.47,174,46,67,61,Leste,Delivery
+2026-01-31,Loja Leste B,3429.48,137,49,66,22,Leste,Delivery
+2026-01-31,Loja Leste C,2047.86,146,57,69,20,Leste,Loja Física
+2026-01-31,Loja Oeste A,863.44,50,16,22,12,Oeste,Loja Física
+2026-01-31,Loja Oeste B,1315.98,56,20,19,17,Oeste,Loja Física
+2026-01-31,Loja Oeste C,2647.35,144,48,68,28,Oeste,Delivery
+2026-01-31,Loja Central A,982.36,98,32,47,19,Central,Delivery
+2026-01-31,Loja Central B,984.55,54,20,26,8,Central,Delivery
+2026-01-31,Loja Central C,1840.37,163,48,72,43,Central,Loja Física
+2026-02-01,Loja Norte A,1485.61,139,53,67,19,Norte,Loja Física
+2026-02-01,Loja Norte B,1811.16,148,35,48,65,Norte,Loja Física
+2026-02-01,Loja Norte C,1599.72,82,17,38,27,Norte,Delivery
+2026-02-01,Loja Sul A,2785.56,93,36,36,21,Sul,Loja Física
+2026-02-01,Loja Sul B,1383.62,112,39,48,25,Sul,Loja Física
+2026-02-01,Loja Sul C,1306.37,77,26,25,26,Sul,Delivery
+2026-02-01,Loja Leste A,4869.32,148,36,52,60,Leste,Delivery
+2026-02-01,Loja Leste B,1392.28,81,31,34,16,Leste,Delivery
+2026-02-01,Loja Leste C,1553.02,73,19,25,29,Leste,Loja Física
+2026-02-01,Loja Oeste A,1536.85,137,47,61,29,Oeste,Delivery
+2026-02-01,Loja Oeste B,5503.48,193,55,66,72,Oeste,Delivery
+2026-02-01,Loja Oeste C,1008.93,79,17,29,33,Oeste,Loja Física
+2026-02-01,Loja Central A,1561.4,79,17,28,34,Central,Delivery
+2026-02-01,Loja Central B,3550.2,197,51,82,64,Central,Loja Física
+2026-02-01,Loja Central C,4894.26,149,39,55,55,Central,Loja Física
+2026-02-02,Loja Norte A,3312.64,183,58,58,67,Norte,Loja Física
+2026-02-02,Loja Norte B,4327.23,187,49,86,52,Norte,Delivery
+2026-02-02,Loja Norte C,1104.07,106,30,44,32,Norte,Loja Física
+2026-02-02,Loja Sul A,1599.8,58,15,28,15,Sul,Loja Física
+2026-02-02,Loja Sul B,3983.64,120,40,47,33,Sul,Loja Física
+2026-02-02,Loja Sul C,1656.15,176,69,54,53,Sul,Delivery
+2026-02-02,Loja Leste A,2034.03,89,21,39,29,Leste,Loja Física
+2026-02-02,Loja Leste B,1062.93,63,22,29,12,Leste,Delivery
+2026-02-02,Loja Leste C,3985.74,126,41,59,26,Leste,Loja Física
+2026-02-02,Loja Oeste A,3610.56,190,54,74,62,Oeste,Delivery
+2026-02-02,Loja Oeste B,2320.54,150,45,53,52,Oeste,Loja Física
+2026-02-02,Loja Oeste C,3931.09,190,42,85,63,Oeste,Loja Física
+2026-02-02,Loja Central A,2578.8,127,29,41,57,Central,Delivery
+2026-02-02,Loja Central B,1898.31,124,30,57,37,Central,Loja Física
+2026-02-02,Loja Central C,1058.99,52,19,16,17,Central,Loja Física
+2026-02-03,Loja Norte A,2821.1,146,41,68,37,Norte,Loja Física
+2026-02-03,Loja Norte B,1267.97,74,21,36,17,Norte,Loja Física
+2026-02-03,Loja Norte C,5082.79,181,57,89,35,Norte,Delivery
+2026-02-03,Loja Sul A,1066.12,112,27,44,41,Sul,Loja Física
+2026-02-03,Loja Sul B,3578.04,146,58,63,25,Sul,Loja Física
+2026-02-03,Loja Sul C,4492.62,168,55,59,54,Sul,Delivery
+2026-02-03,Loja Leste A,1344.89,144,32,46,66,Leste,Loja Física
+2026-02-03,Loja Leste B,926.85,55,21,21,13,Leste,Loja Física
+2026-02-03,Loja Leste C,1015.17,96,38,42,16,Leste,Delivery
+2026-02-03,Loja Oeste A,1840.15,196,51,86,59,Oeste,Loja Física
+2026-02-03,Loja Oeste B,3595.79,153,31,62,60,Oeste,Delivery
+2026-02-03,Loja Oeste C,1604.3,66,20,29,17,Oeste,Loja Física
+2026-02-03,Loja Central A,3146.63,103,39,34,30,Central,Loja Física
+2026-02-03,Loja Central B,670.4,51,18,16,17,Central,Loja Física
+2026-02-03,Loja Central C,1843.19,197,45,81,71,Central,Loja Física
+2026-02-04,Loja Norte A,1158.9,71,21,26,24,Norte,Loja Física
+2026-02-04,Loja Norte B,3024.49,158,52,55,51,Norte,Loja Física
+2026-02-04,Loja Norte C,4438.54,182,47,74,61,Norte,Loja Física
+2026-02-04,Loja Sul A,2800.67,197,51,94,52,Sul,Delivery
+2026-02-04,Loja Sul B,2836.89,187,63,80,44,Sul,Loja Física
+2026-02-04,Loja Sul C,821.49,110,25,51,34,Sul,Loja Física
+2026-02-04,Loja Leste A,2165.26,84,20,31,33,Leste,Loja Física
+2026-02-04,Loja Leste B,848.01,158,39,59,60,Leste,Loja Física
+2026-02-04,Loja Leste C,2015.08,152,59,66,27,Leste,Loja Física
+2026-02-04,Loja Oeste A,1972.26,187,60,66,61,Oeste,Loja Física
+2026-02-04,Loja Oeste B,2301.21,145,47,58,40,Oeste,Loja Física
+2026-02-04,Loja Oeste C,3414.83,157,41,71,45,Oeste,Delivery
+2026-02-04,Loja Central A,1704.64,56,13,19,24,Central,Loja Física
+2026-02-04,Loja Central B,1887.87,190,50,60,80,Central,Delivery
+2026-02-04,Loja Central C,1595.97,119,42,42,35,Central,Loja Física
+2026-02-05,Loja Norte A,5174.36,146,35,71,40,Norte,Loja Física
+2026-02-05,Loja Norte B,974.21,94,35,39,20,Norte,Delivery
+2026-02-05,Loja Norte C,1222.29,74,25,35,14,Norte,Delivery
+2026-02-05,Loja Sul A,2374.49,75,17,36,22,Sul,Delivery
+2026-02-05,Loja Sul B,1075.24,96,33,47,16,Sul,Delivery
+2026-02-05,Loja Sul C,2487.78,172,43,75,54,Sul,Loja Física
+2026-02-05,Loja Leste A,701.9,82,25,28,29,Leste,Delivery
+2026-02-05,Loja Leste B,2524.02,113,32,44,37,Leste,Delivery
+2026-02-05,Loja Leste C,2051.92,140,42,49,49,Leste,Delivery
+2026-02-05,Loja Oeste A,4745.39,183,68,84,31,Oeste,Delivery
+2026-02-05,Loja Oeste B,1107.1,72,20,26,26,Oeste,Loja Física
+2026-02-05,Loja Oeste C,518.35,70,17,22,31,Oeste,Loja Física
+2026-02-05,Loja Central A,987.48,71,22,28,21,Central,Loja Física
+2026-02-05,Loja Central B,2945.32,158,61,51,46,Central,Delivery
+2026-02-05,Loja Central C,5515.3,181,60,73,48,Central,Loja Física
+2026-02-06,Loja Norte A,1177.78,153,36,71,46,Norte,Loja Física
+2026-02-06,Loja Norte B,4331.09,158,55,55,48,Norte,Loja Física
+2026-02-06,Loja Norte C,3614.44,164,54,78,32,Norte,Loja Física
+2026-02-06,Loja Sul A,672.89,94,34,37,23,Sul,Loja Física
+2026-02-06,Loja Sul B,2562.21,158,36,78,44,Sul,Delivery
+2026-02-06,Loja Sul C,3316.74,113,41,53,19,Sul,Delivery
+2026-02-06,Loja Leste A,2006.96,126,31,37,58,Leste,Delivery
+2026-02-06,Loja Leste B,3489.19,105,40,51,14,Leste,Loja Física
+2026-02-06,Loja Leste C,4275.92,168,62,52,54,Leste,Loja Física
+2026-02-06,Loja Oeste A,1568.79,167,45,50,72,Oeste,Loja Física
+2026-02-06,Loja Oeste B,2799.22,152,33,60,59,Oeste,Loja Física
+2026-02-06,Loja Oeste C,4640.09,185,42,60,83,Oeste,Delivery
+2026-02-06,Loja Central A,569.75,51,16,17,18,Central,Delivery
+2026-02-06,Loja Central B,1818.53,145,41,48,56,Central,Delivery
+2026-02-06,Loja Central C,1253.66,77,25,29,23,Central,Loja Física
+2026-02-07,Loja Norte A,3917.9,140,28,66,46,Norte,Loja Física
+2026-02-07,Loja Norte B,811.07,78,16,29,33,Norte,Delivery
+2026-02-07,Loja Norte C,465.49,58,13,22,23,Norte,Delivery
+2026-02-07,Loja Sul A,1394.73,80,24,36,20,Sul,Loja Física
+2026-02-07,Loja Sul B,4059.51,133,47,50,36,Sul,Delivery
+2026-02-07,Loja Sul C,515.69,83,18,25,40,Sul,Loja Física
+2026-02-07,Loja Leste A,3170.74,138,48,47,43,Leste,Delivery
+2026-02-07,Loja Leste B,5348.29,159,55,61,43,Leste,Delivery
+2026-02-07,Loja Leste C,2468.58,122,42,42,38,Leste,Loja Física
+2026-02-07,Loja Oeste A,1944.83,180,46,58,76,Oeste,Delivery
+2026-02-07,Loja Oeste B,1762.96,113,32,44,37,Oeste,Loja Física
+2026-02-07,Loja Oeste C,3101.23,178,42,83,53,Oeste,Loja Física
+2026-02-07,Loja Central A,1282.4,108,30,38,40,Central,Loja Física
+2026-02-07,Loja Central B,1324.44,87,28,27,32,Central,Loja Física
+2026-02-07,Loja Central C,2074.7,147,38,62,47,Central,Loja Física
+2026-02-08,Loja Norte A,1894.57,106,31,42,33,Norte,Loja Física
+2026-02-08,Loja Norte B,691.45,127,34,62,31,Norte,Delivery
+2026-02-08,Loja Norte C,1725.18,113,23,34,56,Norte,Loja Física
+2026-02-08,Loja Sul A,1911.83,132,38,63,31,Sul,Loja Física
+2026-02-08,Loja Sul B,1767.46,160,62,59,39,Sul,Delivery
+2026-02-08,Loja Sul C,535.41,78,15,32,31,Sul,Loja Física
+2026-02-08,Loja Leste A,1347.63,134,48,60,26,Leste,Delivery
+2026-02-08,Loja Leste B,1763.54,110,26,41,43,Leste,Loja Física
+2026-02-08,Loja Leste C,1153.28,83,26,25,32,Leste,Loja Física
+2026-02-08,Loja Oeste A,2356.39,99,38,31,30,Oeste,Delivery
+2026-02-08,Loja Oeste B,2734.59,127,50,43,34,Oeste,Loja Física
+2026-02-08,Loja Oeste C,780.01,61,17,26,18,Oeste,Delivery
+2026-02-08,Loja Central A,1636.62,143,49,68,26,Central,Loja Física
+2026-02-08,Loja Central B,2436.24,173,66,69,38,Central,Loja Física
+2026-02-08,Loja Central C,2342.67,92,31,29,32,Central,Loja Física
+2026-02-09,Loja Norte A,1260.13,194,76,65,53,Norte,Delivery
+2026-02-09,Loja Norte B,3664.18,176,65,86,25,Norte,Loja Física
+2026-02-09,Loja Norte C,3750.43,162,44,73,45,Norte,Delivery
+2026-02-09,Loja Sul A,1798.44,119,23,49,47,Sul,Loja Física
+2026-02-09,Loja Sul B,2275.84,181,61,73,47,Sul,Delivery
+2026-02-09,Loja Sul C,1037.08,106,26,34,46,Sul,Loja Física
+2026-02-09,Loja Leste A,921.72,61,15,26,20,Leste,Delivery
+2026-02-09,Loja Leste B,1179.82,84,30,35,19,Leste,Loja Física
+2026-02-09,Loja Leste C,2404.4,103,20,38,45,Leste,Delivery
+2026-02-09,Loja Oeste A,1103.53,133,45,54,34,Oeste,Loja Física
+2026-02-09,Loja Oeste B,5507.67,154,39,76,39,Oeste,Loja Física
+2026-02-09,Loja Oeste C,1528.87,141,55,47,39,Oeste,Loja Física
+2026-02-09,Loja Central A,5471.11,187,69,91,27,Central,Loja Física
+2026-02-09,Loja Central B,3459.69,147,36,62,49,Central,Loja Física
+2026-02-09,Loja Central C,1600.75,163,41,67,55,Central,Delivery
+2026-02-10,Loja Norte A,1868.87,89,30,34,25,Norte,Loja Física
+2026-02-10,Loja Norte B,902.03,172,40,57,75,Norte,Loja Física
+2026-02-10,Loja Norte C,2009.72,98,38,32,28,Norte,Delivery
+2026-02-10,Loja Sul A,1020.94,55,20,25,10,Sul,Loja Física
+2026-02-10,Loja Sul B,590.43,67,19,26,22,Sul,Delivery
+2026-02-10,Loja Sul C,1785.75,75,17,33,25,Sul,Loja Física
+2026-02-10,Loja Leste A,1471.98,75,15,34,26,Leste,Loja Física
+2026-02-10,Loja Leste B,826.45,83,17,27,39,Leste,Loja Física
+2026-02-10,Loja Leste C,1429.52,52,11,23,18,Leste,Delivery
+2026-02-10,Loja Oeste A,874.05,71,21,29,21,Oeste,Delivery
+2026-02-10,Loja Oeste B,1113.08,91,26,31,34,Oeste,Delivery
+2026-02-10,Loja Oeste C,1536.19,189,68,60,61,Oeste,Delivery
+2026-02-10,Loja Central A,1572.25,76,27,24,25,Central,Loja Física
+2026-02-10,Loja Central B,827.78,56,15,20,21,Central,Delivery
+2026-02-10,Loja Central C,2458.36,107,36,46,25,Central,Loja Física
+2026-02-11,Loja Norte A,1198.08,175,38,56,81,Norte,Delivery
+2026-02-11,Loja Norte B,964.4,141,37,52,52,Norte,Loja Física
+2026-02-11,Loja Norte C,1048.65,61,14,24,23,Norte,Loja Física
+2026-02-11,Loja Sul A,1482.77,158,52,56,50,Sul,Delivery
+2026-02-11,Loja Sul B,4894.21,139,35,55,49,Sul,Delivery
+2026-02-11,Loja Sul C,3432.36,117,40,36,41,Sul,Loja Física
+2026-02-11,Loja Leste A,2597.48,88,20,29,39,Leste,Delivery
+2026-02-11,Loja Leste B,3542.48,172,38,66,68,Leste,Delivery
+2026-02-11,Loja Leste C,660.94,87,34,29,24,Leste,Delivery
+2026-02-11,Loja Oeste A,1688.46,140,39,61,40,Oeste,Delivery
+2026-02-11,Loja Oeste B,1459.74,135,52,65,18,Oeste,Delivery
+2026-02-11,Loja Oeste C,3981.32,157,48,62,47,Oeste,Loja Física
+2026-02-11,Loja Central A,1170.04,148,50,59,39,Central,Loja Física
+2026-02-11,Loja Central B,1008.23,72,14,35,23,Central,Loja Física
+2026-02-11,Loja Central C,2313.59,142,55,68,19,Central,Loja Física
+2026-02-12,Loja Norte A,2251.97,139,51,63,25,Norte,Loja Física
+2026-02-12,Loja Norte B,2619.86,125,45,51,29,Norte,Delivery
+2026-02-12,Loja Norte C,1059.3,112,27,50,35,Norte,Loja Física
+2026-02-12,Loja Sul A,794.17,86,17,42,27,Sul,Delivery
+2026-02-12,Loja Sul B,1128.29,63,20,19,24,Sul,Loja Física
+2026-02-12,Loja Sul C,586.87,57,13,19,25,Sul,Loja Física
+2026-02-12,Loja Leste A,6787.78,195,55,88,52,Leste,Delivery
+2026-02-12,Loja Leste B,2679.14,85,28,30,27,Leste,Delivery
+2026-02-12,Loja Leste C,1476.67,136,44,41,51,Leste,Loja Física
+2026-02-12,Loja Oeste A,786.77,89,29,37,23,Oeste,Loja Física
+2026-02-12,Loja Oeste B,2531.73,178,49,68,61,Oeste,Delivery
+2026-02-12,Loja Oeste C,5047.01,191,48,79,64,Oeste,Delivery
+2026-02-12,Loja Central A,1497.95,108,24,53,31,Central,Delivery
+2026-02-12,Loja Central B,1475.23,82,22,25,35,Central,Delivery
+2026-02-12,Loja Central C,3293.9,97,38,40,19,Central,Loja Física
+2026-02-13,Loja Norte A,2695.08,169,55,64,50,Norte,Delivery
+2026-02-13,Loja Norte B,939.26,92,25,35,32,Norte,Delivery
+2026-02-13,Loja Norte C,428.88,77,20,35,22,Norte,Delivery
+2026-02-13,Loja Sul A,821.46,57,13,18,26,Sul,Loja Física
+2026-02-13,Loja Sul B,828.36,52,13,21,18,Sul,Loja Física
+2026-02-13,Loja Sul C,1284.62,111,43,45,23,Sul,Delivery
+2026-02-13,Loja Leste A,447.74,61,13,22,26,Leste,Delivery
+2026-02-13,Loja Leste B,2704.45,122,36,44,42,Leste,Delivery
+2026-02-13,Loja Leste C,3423.51,141,48,45,48,Leste,Delivery
+2026-02-13,Loja Oeste A,2089.04,178,64,58,56,Oeste,Delivery
+2026-02-13,Loja Oeste B,3541.68,172,63,61,48,Oeste,Loja Física
+2026-02-13,Loja Oeste C,1575.65,168,54,82,32,Oeste,Loja Física
+2026-02-13,Loja Central A,2525.81,105,34,47,24,Central,Loja Física
+2026-02-13,Loja Central B,4450.34,178,61,76,41,Central,Delivery
+2026-02-13,Loja Central C,4424.72,164,43,61,60,Central,Delivery
+2026-02-14,Loja Norte A,1523.31,60,21,22,17,Norte,Loja Física
+2026-02-14,Loja Norte B,1966.27,69,21,34,14,Norte,Loja Física
+2026-02-14,Loja Norte C,307.35,53,19,21,13,Norte,Loja Física
+2026-02-14,Loja Sul A,2269.5,177,46,86,45,Sul,Loja Física
+2026-02-14,Loja Sul B,938.94,67,18,21,28,Sul,Loja Física
+2026-02-14,Loja Sul C,1725.48,167,49,58,60,Sul,Delivery
+2026-02-14,Loja Leste A,2039.59,85,33,33,19,Leste,Delivery
+2026-02-14,Loja Leste B,1380.1,123,45,59,19,Leste,Loja Física
+2026-02-14,Loja Leste C,2251.63,162,59,79,24,Leste,Delivery
+2026-02-14,Loja Oeste A,904.27,71,21,25,25,Oeste,Loja Física
+2026-02-14,Loja Oeste B,1735.69,64,15,29,20,Oeste,Loja Física
+2026-02-14,Loja Oeste C,2205.12,89,22,29,38,Oeste,Delivery
+2026-02-14,Loja Central A,917.94,68,25,29,14,Central,Delivery
+2026-02-14,Loja Central B,3193.28,169,51,78,40,Central,Loja Física
+2026-02-14,Loja Central C,1035.63,71,15,34,22,Central,Delivery
+2026-02-15,Loja Norte A,1656.7,160,42,58,60,Norte,Delivery
+2026-02-15,Loja Norte B,1922.82,104,30,36,38,Norte,Loja Física
+2026-02-15,Loja Norte C,1451.67,189,55,80,54,Norte,Delivery
+2026-02-15,Loja Sul A,1294.71,195,62,73,60,Sul,Delivery
+2026-02-15,Loja Sul B,3100.96,160,38,54,68,Sul,Loja Física
+2026-02-15,Loja Sul C,1350.2,158,51,50,57,Sul,Loja Física
+2026-02-15,Loja Leste A,1106.65,120,31,53,36,Leste,Delivery
+2026-02-15,Loja Leste B,2913.43,184,69,61,54,Leste,Loja Física
+2026-02-15,Loja Leste C,2431.72,73,20,35,18,Leste,Delivery
+2026-02-15,Loja Oeste A,940.43,92,35,36,21,Oeste,Loja Física
+2026-02-15,Loja Oeste B,3096.27,161,54,60,47,Oeste,Loja Física
+2026-02-15,Loja Oeste C,6177.1,193,61,60,72,Oeste,Loja Física
+2026-02-15,Loja Central A,3596.35,132,48,58,26,Central,Delivery
+2026-02-15,Loja Central B,386.59,53,15,17,21,Central,Delivery
+2026-02-15,Loja Central C,2529.79,79,26,27,26,Central,Loja Física
+2026-02-16,Loja Norte A,5060.5,165,61,70,34,Norte,Loja Física
+2026-02-16,Loja Norte B,763.07,59,23,22,14,Norte,Loja Física
+2026-02-16,Loja Norte C,2232.45,146,35,49,62,Norte,Loja Física
+2026-02-16,Loja Sul A,4899.91,144,29,69,46,Sul,Loja Física
+2026-02-16,Loja Sul B,3532.87,177,51,67,59,Sul,Delivery
+2026-02-16,Loja Sul C,1905.31,188,74,69,45,Sul,Loja Física
+2026-02-16,Loja Leste A,3701.9,167,39,69,59,Leste,Delivery
+2026-02-16,Loja Leste B,2483.04,147,48,64,35,Leste,Delivery
+2026-02-16,Loja Leste C,2526.22,75,27,24,24,Leste,Loja Física
+2026-02-16,Loja Oeste A,1417.82,155,54,65,36,Oeste,Loja Física
+2026-02-16,Loja Oeste B,2381.84,163,58,70,35,Oeste,Delivery
+2026-02-16,Loja Oeste C,1491.47,104,30,39,35,Oeste,Loja Física
+2026-02-16,Loja Central A,5106.97,170,45,77,48,Central,Delivery
+2026-02-16,Loja Central B,4192.62,155,50,70,35,Central,Delivery
+2026-02-16,Loja Central C,847.98,51,18,20,13,Central,Delivery
+2026-02-17,Loja Norte A,2153.1,117,44,56,17,Norte,Loja Física
+2026-02-17,Loja Norte B,1084.57,51,14,15,22,Norte,Loja Física
+2026-02-17,Loja Norte C,5059.06,145,44,64,37,Norte,Delivery
+2026-02-17,Loja Sul A,893.82,135,42,52,41,Sul,Delivery
+2026-02-17,Loja Sul B,2332.82,99,27,30,42,Sul,Delivery
+2026-02-17,Loja Sul C,2755.19,82,22,36,24,Sul,Delivery
+2026-02-17,Loja Leste A,1651.96,131,37,41,53,Leste,Loja Física
+2026-02-17,Loja Leste B,1254.0,179,56,67,56,Leste,Delivery
+2026-02-17,Loja Leste C,1155.81,191,50,60,81,Leste,Loja Física
+2026-02-17,Loja Oeste A,1190.31,161,56,53,52,Oeste,Loja Física
+2026-02-17,Loja Oeste B,1685.68,196,68,63,65,Oeste,Delivery
+2026-02-17,Loja Oeste C,1021.46,141,46,48,47,Oeste,Loja Física
+2026-02-17,Loja Central A,3100.91,187,64,86,37,Central,Delivery
+2026-02-17,Loja Central B,1683.96,116,29,56,31,Central,Loja Física
+2026-02-17,Loja Central C,4013.79,198,43,96,59,Central,Loja Física
+2026-02-18,Loja Norte A,624.64,77,19,25,33,Norte,Loja Física
+2026-02-18,Loja Norte B,4322.7,176,67,60,49,Norte,Loja Física
+2026-02-18,Loja Norte C,4470.01,175,49,69,57,Norte,Loja Física
+2026-02-18,Loja Sul A,2294.06,103,28,37,38,Sul,Delivery
+2026-02-18,Loja Sul B,1286.15,91,18,30,43,Sul,Loja Física
+2026-02-18,Loja Sul C,3103.6,80,31,31,18,Sul,Loja Física
+2026-02-18,Loja Leste A,1937.78,90,22,29,39,Leste,Loja Física
+2026-02-18,Loja Leste B,1868.98,187,56,61,70,Leste,Delivery
+2026-02-18,Loja Leste C,1408.81,79,16,25,38,Leste,Loja Física
+2026-02-18,Loja Oeste A,1257.71,82,24,40,18,Oeste,Delivery
+2026-02-18,Loja Oeste B,3499.56,191,56,88,47,Oeste,Delivery
+2026-02-18,Loja Oeste C,5680.31,181,69,63,49,Oeste,Loja Física
+2026-02-18,Loja Central A,2714.62,121,26,55,40,Central,Delivery
+2026-02-18,Loja Central B,1710.04,92,35,36,21,Central,Delivery
+2026-02-18,Loja Central C,3459.62,158,40,57,61,Central,Loja Física
+2026-02-19,Loja Norte A,1737.89,148,46,55,47,Norte,Loja Física
+2026-02-19,Loja Norte B,1983.73,165,34,66,65,Norte,Delivery
+2026-02-19,Loja Norte C,1530.38,125,46,61,18,Norte,Delivery
+2026-02-19,Loja Sul A,1450.7,151,35,55,61,Sul,Loja Física
+2026-02-19,Loja Sul B,2310.8,141,34,52,55,Sul,Loja Física
+2026-02-19,Loja Sul C,939.36,130,34,39,57,Sul,Delivery
+2026-02-19,Loja Leste A,2089.04,104,37,49,18,Leste,Loja Física
+2026-02-19,Loja Leste B,1996.93,148,35,50,63,Leste,Delivery
+2026-02-19,Loja Leste C,1080.44,69,22,30,17,Leste,Delivery
+2026-02-19,Loja Oeste A,1985.23,131,31,40,60,Oeste,Delivery
+2026-02-19,Loja Oeste B,882.11,177,45,57,75,Oeste,Delivery
+2026-02-19,Loja Oeste C,1629.09,93,29,32,32,Oeste,Loja Física
+2026-02-19,Loja Central A,1123.42,122,43,50,29,Central,Loja Física
+2026-02-19,Loja Central B,2282.43,168,61,63,44,Central,Loja Física
+2026-02-19,Loja Central C,2070.64,136,29,43,64,Central,Delivery
+2026-02-20,Loja Norte A,1570.69,127,44,48,35,Norte,Delivery
+2026-02-20,Loja Norte B,3684.54,176,49,77,50,Norte,Delivery
+2026-02-20,Loja Norte C,4985.73,176,69,57,50,Norte,Delivery
+2026-02-20,Loja Sul A,380.84,76,15,22,39,Sul,Loja Física
+2026-02-20,Loja Sul B,3827.02,132,45,45,42,Sul,Loja Física
+2026-02-20,Loja Sul C,1404.58,98,35,45,18,Sul,Loja Física
+2026-02-20,Loja Leste A,482.39,63,22,20,21,Leste,Delivery
+2026-02-20,Loja Leste B,842.68,69,23,31,15,Leste,Delivery
+2026-02-20,Loja Leste C,2244.75,119,45,49,25,Leste,Loja Física
+2026-02-20,Loja Oeste A,838.82,82,18,34,30,Oeste,Delivery
+2026-02-20,Loja Oeste B,3012.85,164,49,57,58,Oeste,Delivery
+2026-02-20,Loja Oeste C,2757.28,175,46,78,51,Oeste,Loja Física
+2026-02-20,Loja Central A,750.06,73,18,23,32,Central,Loja Física
+2026-02-20,Loja Central B,2991.77,102,21,40,41,Central,Loja Física
+2026-02-20,Loja Central C,794.51,53,15,19,19,Central,Delivery
+2026-02-21,Loja Norte A,1176.96,76,27,34,15,Norte,Delivery
+2026-02-21,Loja Norte B,3398.96,129,42,60,27,Norte,Loja Física
+2026-02-21,Loja Norte C,1008.96,83,22,41,20,Norte,Loja Física
+2026-02-21,Loja Sul A,2357.99,152,38,50,64,Sul,Delivery
+2026-02-21,Loja Sul B,3039.08,197,45,93,59,Sul,Loja Física
+2026-02-21,Loja Sul C,643.58,111,32,39,40,Sul,Delivery
+2026-02-21,Loja Leste A,3250.84,185,46,89,50,Leste,Loja Física
+2026-02-21,Loja Leste B,1593.58,140,32,56,52,Leste,Delivery
+2026-02-21,Loja Leste C,912.73,63,17,19,27,Leste,Delivery
+2026-02-21,Loja Oeste A,1242.66,158,37,52,69,Oeste,Delivery
+2026-02-21,Loja Oeste B,4420.76,185,56,59,70,Oeste,Loja Física
+2026-02-21,Loja Oeste C,2950.72,113,27,35,51,Oeste,Loja Física
+2026-02-21,Loja Central A,2278.37,197,41,63,93,Central,Loja Física
+2026-02-21,Loja Central B,3036.48,153,33,68,52,Central,Delivery
+2026-02-21,Loja Central C,2279.22,176,62,65,49,Central,Delivery
+2026-02-22,Loja Norte A,3173.95,123,26,49,48,Norte,Delivery
+2026-02-22,Loja Norte B,2282.95,128,43,42,43,Norte,Loja Física
+2026-02-22,Loja Norte C,616.56,92,34,30,28,Norte,Loja Física
+2026-02-22,Loja Sul A,2208.09,171,34,84,53,Sul,Loja Física
+2026-02-22,Loja Sul B,2209.9,93,34,38,21,Sul,Delivery
+2026-02-22,Loja Sul C,1115.71,199,74,78,47,Sul,Loja Física
+2026-02-22,Loja Leste A,631.25,54,21,25,8,Leste,Loja Física
+2026-02-22,Loja Leste B,1586.38,87,19,40,28,Leste,Delivery
+2026-02-22,Loja Leste C,2847.31,165,44,67,54,Leste,Delivery
+2026-02-22,Loja Oeste A,2132.24,114,23,42,49,Oeste,Delivery
+2026-02-22,Loja Oeste B,3225.32,182,67,87,28,Oeste,Delivery
+2026-02-22,Loja Oeste C,781.95,78,23,33,22,Oeste,Loja Física
+2026-02-22,Loja Central A,5120.01,155,51,50,54,Central,Delivery
+2026-02-22,Loja Central B,635.82,57,19,28,10,Central,Delivery
+2026-02-22,Loja Central C,1474.37,102,24,50,28,Central,Loja Física
+2026-02-23,Loja Norte A,3793.69,120,40,57,23,Norte,Delivery
+2026-02-23,Loja Norte B,1868.5,184,70,68,46,Norte,Delivery
+2026-02-23,Loja Norte C,2351.21,150,58,53,39,Norte,Loja Física
+2026-02-23,Loja Sul A,1611.14,60,20,28,12,Sul,Loja Física
+2026-02-23,Loja Sul B,3213.59,160,50,73,37,Sul,Delivery
+2026-02-23,Loja Sul C,741.24,123,24,59,40,Sul,Loja Física
+2026-02-23,Loja Leste A,4831.49,169,51,60,58,Leste,Loja Física
+2026-02-23,Loja Leste B,2723.3,127,27,45,55,Leste,Delivery
+2026-02-23,Loja Leste C,935.1,60,21,19,20,Leste,Delivery
+2026-02-23,Loja Oeste A,1029.94,128,34,59,35,Oeste,Loja Física
+2026-02-23,Loja Oeste B,946.83,114,42,52,20,Oeste,Loja Física
+2026-02-23,Loja Oeste C,1391.6,72,16,32,24,Oeste,Delivery
+2026-02-23,Loja Central A,5455.59,199,51,60,88,Central,Delivery
+2026-02-23,Loja Central B,2394.41,113,36,43,34,Central,Loja Física
+2026-02-23,Loja Central C,3657.77,116,37,38,41,Central,Delivery
+2026-02-24,Loja Norte A,2983.96,132,30,59,43,Norte,Delivery
+2026-02-24,Loja Norte B,1192.21,84,20,30,34,Norte,Delivery
+2026-02-24,Loja Norte C,6665.98,195,56,65,74,Norte,Delivery
+2026-02-24,Loja Sul A,630.58,74,21,26,27,Sul,Delivery
+2026-02-24,Loja Sul B,1486.47,169,49,83,37,Sul,Delivery
+2026-02-24,Loja Sul C,991.4,57,11,25,21,Sul,Loja Física
+2026-02-24,Loja Leste A,1855.04,85,22,29,34,Leste,Delivery
+2026-02-24,Loja Leste B,957.42,82,31,38,13,Leste,Loja Física
+2026-02-24,Loja Leste C,923.5,150,50,58,42,Leste,Delivery
+2026-02-24,Loja Oeste A,328.04,63,16,31,16,Oeste,Loja Física
+2026-02-24,Loja Oeste B,1860.11,135,49,55,31,Oeste,Delivery
+2026-02-24,Loja Oeste C,863.76,65,20,26,19,Oeste,Loja Física
+2026-02-24,Loja Central A,1420.91,102,31,50,21,Central,Loja Física
+2026-02-24,Loja Central B,1631.02,107,35,35,37,Central,Delivery
+2026-02-24,Loja Central C,1214.54,51,16,17,18,Central,Loja Física
+2026-02-25,Loja Norte A,398.82,50,18,20,12,Norte,Loja Física
+2026-02-25,Loja Norte B,860.4,102,20,40,42,Norte,Delivery
+2026-02-25,Loja Norte C,2024.53,64,16,25,23,Norte,Loja Física
+2026-02-25,Loja Sul A,2369.19,110,34,51,25,Sul,Delivery
+2026-02-25,Loja Sul B,770.85,81,26,27,28,Sul,Loja Física
+2026-02-25,Loja Sul C,1423.07,93,31,31,31,Sul,Delivery
+2026-02-25,Loja Leste A,1865.92,124,27,51,46,Leste,Delivery
+2026-02-25,Loja Leste B,1745.38,120,40,38,42,Leste,Delivery
+2026-02-25,Loja Leste C,1956.27,158,40,51,67,Leste,Delivery
+2026-02-25,Loja Oeste A,896.03,52,10,22,20,Oeste,Delivery
+2026-02-25,Loja Oeste B,1151.5,60,16,19,25,Oeste,Delivery
+2026-02-25,Loja Oeste C,574.99,120,27,48,45,Oeste,Loja Física
+2026-02-25,Loja Central A,3725.09,139,42,55,42,Central,Loja Física
+2026-02-25,Loja Central B,1796.94,88,30,32,26,Central,Loja Física
+2026-02-25,Loja Central C,2881.95,121,40,58,23,Central,Loja Física
+2026-02-26,Loja Norte A,2292.05,173,50,74,49,Norte,Delivery
+2026-02-26,Loja Norte B,2552.43,83,26,34,23,Norte,Delivery
+2026-02-26,Loja Norte C,418.52,67,24,22,21,Norte,Loja Física
+2026-02-26,Loja Sul A,1513.04,77,25,28,24,Sul,Loja Física
+2026-02-26,Loja Sul B,796.64,110,41,49,20,Sul,Delivery
+2026-02-26,Loja Sul C,3582.69,157,33,54,70,Sul,Loja Física
+2026-02-26,Loja Leste A,731.32,68,18,28,22,Leste,Loja Física
+2026-02-26,Loja Leste B,882.61,94,31,35,28,Leste,Loja Física
+2026-02-26,Loja Leste C,1746.32,100,28,35,37,Leste,Loja Física
+2026-02-26,Loja Oeste A,1543.74,91,27,41,23,Oeste,Loja Física
+2026-02-26,Loja Oeste B,1675.59,199,78,63,58,Oeste,Loja Física
+2026-02-26,Loja Oeste C,1552.5,85,23,32,30,Oeste,Loja Física
+2026-02-26,Loja Central A,1239.1,137,47,66,24,Central,Delivery
+2026-02-26,Loja Central B,2123.51,98,30,38,30,Central,Delivery
+2026-02-26,Loja Central C,3620.0,141,43,46,52,Central,Loja Física
+2026-02-27,Loja Norte A,1499.63,162,44,50,68,Norte,Loja Física
+2026-02-27,Loja Norte B,1805.85,82,21,26,35,Norte,Loja Física
+2026-02-27,Loja Norte C,1566.36,63,16,21,26,Norte,Delivery
+2026-02-27,Loja Sul A,1189.16,114,30,54,30,Sul,Loja Física
+2026-02-27,Loja Sul B,938.56,123,38,57,28,Sul,Delivery
+2026-02-27,Loja Sul C,3449.25,152,46,72,34,Sul,Delivery
+2026-02-27,Loja Leste A,2488.91,117,24,44,49,Leste,Loja Física
+2026-02-27,Loja Leste B,3606.82,135,28,46,61,Leste,Delivery
+2026-02-27,Loja Leste C,1016.99,65,13,31,21,Leste,Loja Física
+2026-02-27,Loja Oeste A,3296.7,138,53,57,28,Oeste,Loja Física
+2026-02-27,Loja Oeste B,3097.89,191,43,84,64,Oeste,Loja Física
+2026-02-27,Loja Oeste C,675.15,59,14,21,24,Oeste,Delivery
+2026-02-27,Loja Central A,2669.82,127,47,43,37,Central,Loja Física
+2026-02-27,Loja Central B,1306.27,56,20,22,14,Central,Delivery
+2026-02-27,Loja Central C,709.89,54,11,24,19,Central,Loja Física
+2026-02-28,Loja Norte A,3968.28,160,49,51,60,Norte,Loja Física
+2026-02-28,Loja Norte B,1394.02,144,38,69,37,Norte,Loja Física
+2026-02-28,Loja Norte C,1053.46,109,22,41,46,Norte,Loja Física
+2026-02-28,Loja Sul A,1674.28,53,13,16,24,Sul,Loja Física
+2026-02-28,Loja Sul B,1101.03,82,21,29,32,Sul,Loja Física
+2026-02-28,Loja Sul C,1322.93,124,34,53,37,Sul,Loja Física
+2026-02-28,Loja Leste A,590.58,69,21,27,21,Leste,Delivery
+2026-02-28,Loja Leste B,1527.42,106,27,39,40,Leste,Delivery
+2026-02-28,Loja Leste C,2269.41,112,28,49,35,Leste,Loja Física
+2026-02-28,Loja Oeste A,871.12,63,17,30,16,Oeste,Delivery
+2026-02-28,Loja Oeste B,1123.66,121,46,56,19,Oeste,Loja Física
+2026-02-28,Loja Oeste C,2150.09,128,30,47,51,Oeste,Loja Física
+2026-02-28,Loja Central A,1509.17,59,20,25,14,Central,Delivery
+2026-02-28,Loja Central B,735.91,79,29,27,23,Central,Delivery
+2026-02-28,Loja Central C,3266.94,126,27,44,55,Central,Delivery
+2026-03-01,Loja Norte A,931.92,176,48,68,60,Norte,Loja Física
+2026-03-01,Loja Norte B,2018.2,102,33,41,28,Norte,Delivery
+2026-03-01,Loja Norte C,1231.42,58,15,17,26,Norte,Delivery
+2026-03-01,Loja Sul A,2839.42,117,37,52,28,Sul,Delivery
+2026-03-01,Loja Sul B,2958.56,161,57,78,26,Sul,Loja Física
+2026-03-01,Loja Sul C,1675.16,77,30,37,10,Sul,Delivery
+2026-03-01,Loja Leste A,2380.93,186,58,76,52,Leste,Delivery
+2026-03-01,Loja Leste B,1471.03,91,26,45,20,Leste,Loja Física
+2026-03-01,Loja Leste C,2018.75,83,21,36,26,Leste,Delivery
+2026-03-01,Loja Oeste A,2314.35,71,25,25,21,Oeste,Delivery
+2026-03-01,Loja Oeste B,711.41,59,16,25,18,Oeste,Loja Física
+2026-03-01,Loja Oeste C,739.45,81,26,37,18,Oeste,Loja Física
+2026-03-01,Loja Central A,3760.28,163,46,64,53,Central,Delivery
+2026-03-01,Loja Central B,2109.96,172,53,65,54,Central,Loja Física
+2026-03-01,Loja Central C,2020.58,120,37,58,25,Central,Delivery
+2026-03-02,Loja Norte A,1347.88,96,34,33,29,Norte,Delivery
+2026-03-02,Loja Norte B,705.4,82,19,38,25,Norte,Loja Física
+2026-03-02,Loja Norte C,950.4,109,22,47,40,Norte,Delivery
+2026-03-02,Loja Sul A,1938.88,198,61,68,69,Sul,Delivery
+2026-03-02,Loja Sul B,582.88,115,42,54,19,Sul,Loja Física
+2026-03-02,Loja Sul C,2068.91,110,23,42,45,Sul,Loja Física
+2026-03-02,Loja Leste A,1231.72,110,34,51,25,Leste,Delivery
+2026-03-02,Loja Leste B,1518.67,68,25,22,21,Leste,Delivery
+2026-03-02,Loja Leste C,2464.16,142,39,61,42,Leste,Delivery
+2026-03-02,Loja Oeste A,3153.1,125,29,38,58,Oeste,Loja Física
+2026-03-02,Loja Oeste B,708.81,56,13,20,23,Oeste,Delivery
+2026-03-02,Loja Oeste C,2113.39,105,33,45,27,Oeste,Loja Física
+2026-03-02,Loja Central A,3702.24,147,48,72,27,Central,Loja Física
+2026-03-02,Loja Central B,3965.78,194,61,79,54,Central,Delivery
+2026-03-02,Loja Central C,3589.82,187,69,75,43,Central,Loja Física
+2026-03-03,Loja Norte A,2825.98,170,51,61,58,Norte,Loja Física
+2026-03-03,Loja Norte B,1537.25,197,49,68,80,Norte,Delivery
+2026-03-03,Loja Norte C,1132.44,109,38,35,36,Norte,Loja Física
+2026-03-03,Loja Sul A,4405.08,163,61,60,42,Sul,Delivery
+2026-03-03,Loja Sul B,3248.93,193,73,83,37,Sul,Loja Física
+2026-03-03,Loja Sul C,3694.86,164,40,76,48,Sul,Loja Física
+2026-03-03,Loja Leste A,2462.19,187,71,81,35,Leste,Loja Física
+2026-03-03,Loja Leste B,3269.43,116,31,37,48,Leste,Delivery
+2026-03-03,Loja Leste C,1748.07,157,36,62,59,Leste,Loja Física
+2026-03-03,Loja Oeste A,2392.92,96,19,31,46,Oeste,Delivery
+2026-03-03,Loja Oeste B,4928.92,191,56,61,74,Oeste,Loja Física
+2026-03-03,Loja Oeste C,727.44,160,37,50,73,Oeste,Delivery
+2026-03-03,Loja Central A,2964.62,158,44,64,50,Central,Delivery
+2026-03-03,Loja Central B,1578.08,80,29,29,22,Central,Loja Física
+2026-03-03,Loja Central C,646.76,61,23,29,9,Central,Delivery
+2026-03-04,Loja Norte A,5107.8,165,47,74,44,Norte,Loja Física
+2026-03-04,Loja Norte B,1489.24,96,30,44,22,Norte,Loja Física
+2026-03-04,Loja Norte C,1496.01,88,28,32,28,Norte,Delivery
+2026-03-04,Loja Sul A,1562.34,147,34,65,48,Sul,Delivery
+2026-03-04,Loja Sul B,1221.66,74,22,22,30,Sul,Delivery
+2026-03-04,Loja Sul C,2247.01,123,32,41,50,Sul,Loja Física
+2026-03-04,Loja Leste A,941.54,60,20,29,11,Leste,Loja Física
+2026-03-04,Loja Leste B,3549.22,160,50,67,43,Leste,Loja Física
+2026-03-04,Loja Leste C,2160.97,138,30,48,60,Leste,Delivery
+2026-03-04,Loja Oeste A,2529.4,107,27,51,29,Oeste,Loja Física
+2026-03-04,Loja Oeste B,3156.75,109,24,37,48,Oeste,Loja Física
+2026-03-04,Loja Oeste C,967.76,57,11,27,19,Oeste,Loja Física
+2026-03-04,Loja Central A,667.12,51,18,19,14,Central,Delivery
+2026-03-04,Loja Central B,3986.83,196,56,63,77,Central,Delivery
+2026-03-04,Loja Central C,4624.33,125,42,60,23,Central,Loja Física
+2026-03-05,Loja Norte A,3360.42,163,48,51,64,Norte,Loja Física
+2026-03-05,Loja Norte B,1754.28,121,27,44,50,Norte,Loja Física
+2026-03-05,Loja Norte C,3318.11,106,28,42,36,Norte,Delivery
+2026-03-05,Loja Sul A,4226.73,166,50,75,41,Sul,Delivery
+2026-03-05,Loja Sul B,935.78,59,22,27,10,Sul,Delivery
+2026-03-05,Loja Sul C,2376.16,98,32,46,20,Sul,Loja Física
+2026-03-05,Loja Leste A,522.04,52,16,24,12,Leste,Loja Física
+2026-03-05,Loja Leste B,1428.27,100,23,46,31,Leste,Delivery
+2026-03-05,Loja Leste C,1319.72,122,39,38,45,Leste,Loja Física
+2026-03-05,Loja Oeste A,769.77,50,14,21,15,Oeste,Loja Física
+2026-03-05,Loja Oeste B,882.77,59,14,22,23,Oeste,Loja Física
+2026-03-05,Loja Oeste C,1434.32,139,46,46,47,Oeste,Delivery
+2026-03-05,Loja Central A,2901.95,109,36,43,30,Central,Delivery
+2026-03-05,Loja Central B,2787.45,141,36,48,57,Central,Delivery
+2026-03-05,Loja Central C,3411.53,157,41,67,49,Central,Loja Física
+2026-03-06,Loja Norte A,2213.44,95,25,30,40,Norte,Delivery
+2026-03-06,Loja Norte B,1218.51,82,24,37,21,Norte,Delivery
+2026-03-06,Loja Norte C,3776.26,155,31,54,70,Norte,Loja Física
+2026-03-06,Loja Sul A,1190.65,154,54,54,46,Sul,Delivery
+2026-03-06,Loja Sul B,3272.04,155,44,58,53,Sul,Loja Física
+2026-03-06,Loja Sul C,2831.77,118,28,50,40,Sul,Loja Física
+2026-03-06,Loja Leste A,2449.69,128,31,60,37,Leste,Loja Física
+2026-03-06,Loja Leste B,1619.62,78,25,28,25,Leste,Loja Física
+2026-03-06,Loja Leste C,1264.26,55,11,24,20,Leste,Delivery
+2026-03-06,Loja Oeste A,2217.71,191,40,65,86,Oeste,Loja Física
+2026-03-06,Loja Oeste B,1530.37,90,25,39,26,Oeste,Delivery
+2026-03-06,Loja Oeste C,2532.03,91,24,31,36,Oeste,Loja Física
+2026-03-06,Loja Central A,360.72,53,10,25,18,Central,Loja Física
+2026-03-06,Loja Central B,2855.24,178,52,58,68,Central,Delivery
+2026-03-06,Loja Central C,537.46,56,19,19,18,Central,Delivery
+2026-03-07,Loja Norte A,1534.87,81,22,30,29,Norte,Delivery
+2026-03-07,Loja Norte B,360.42,71,21,31,19,Norte,Delivery
+2026-03-07,Loja Norte C,391.52,55,20,23,12,Norte,Loja Física
+2026-03-07,Loja Sul A,1154.66,74,26,25,23,Sul,Delivery
+2026-03-07,Loja Sul B,2964.17,132,46,47,39,Sul,Delivery
+2026-03-07,Loja Sul C,918.05,101,39,41,21,Sul,Delivery
+2026-03-07,Loja Leste A,1493.05,124,30,47,47,Leste,Delivery
+2026-03-07,Loja Leste B,1908.07,173,58,69,46,Leste,Delivery
+2026-03-07,Loja Leste C,1493.61,54,18,26,10,Leste,Loja Física
+2026-03-07,Loja Oeste A,1743.56,165,65,62,38,Oeste,Loja Física
+2026-03-07,Loja Oeste B,1796.27,164,51,70,43,Oeste,Delivery
+2026-03-07,Loja Oeste C,2390.78,86,33,27,26,Oeste,Loja Física
+2026-03-07,Loja Central A,2625.1,103,30,36,37,Central,Loja Física
+2026-03-07,Loja Central B,2343.11,153,45,68,40,Central,Loja Física
+2026-03-07,Loja Central C,1188.91,65,16,23,26,Central,Delivery
+2026-03-08,Loja Norte A,743.74,88,29,36,23,Norte,Loja Física
+2026-03-08,Loja Norte B,3330.32,118,41,54,23,Norte,Delivery
+2026-03-08,Loja Norte C,3480.13,130,32,50,48,Norte,Delivery
+2026-03-08,Loja Sul A,4818.87,181,62,80,39,Sul,Loja Física
+2026-03-08,Loja Sul B,2772.6,158,43,71,44,Sul,Loja Física
+2026-03-08,Loja Sul C,3728.33,183,42,70,71,Sul,Loja Física
+2026-03-08,Loja Leste A,1953.87,59,17,25,17,Leste,Delivery
+2026-03-08,Loja Leste B,1985.36,85,26,32,27,Leste,Delivery
+2026-03-08,Loja Leste C,1142.63,80,20,38,22,Leste,Delivery
+2026-03-08,Loja Oeste A,2716.59,183,69,75,39,Oeste,Loja Física
+2026-03-08,Loja Oeste B,861.47,86,28,39,19,Oeste,Delivery
+2026-03-08,Loja Oeste C,2176.53,182,53,62,67,Oeste,Delivery
+2026-03-08,Loja Central A,875.16,84,28,33,23,Central,Delivery
+2026-03-08,Loja Central B,2308.99,156,45,77,34,Central,Loja Física
+2026-03-08,Loja Central C,3623.31,129,30,41,58,Central,Delivery
+2026-03-09,Loja Norte A,853.43,134,43,56,35,Norte,Loja Física
+2026-03-09,Loja Norte B,2727.27,139,52,51,36,Norte,Loja Física
+2026-03-09,Loja Norte C,1781.18,99,36,46,17,Norte,Delivery
+2026-03-09,Loja Sul A,2511.36,144,40,50,54,Sul,Loja Física
+2026-03-09,Loja Sul B,1621.61,69,15,23,31,Sul,Loja Física
+2026-03-09,Loja Sul C,1945.25,117,26,47,44,Sul,Delivery
+2026-03-09,Loja Leste A,2680.9,134,49,56,29,Leste,Delivery
+2026-03-09,Loja Leste B,1295.2,103,36,51,16,Leste,Loja Física
+2026-03-09,Loja Leste C,951.42,87,25,26,36,Leste,Loja Física
+2026-03-09,Loja Oeste A,634.6,63,22,24,17,Oeste,Delivery
+2026-03-09,Loja Oeste B,2124.91,133,46,46,41,Oeste,Delivery
+2026-03-09,Loja Oeste C,2990.98,146,49,54,43,Oeste,Delivery
+2026-03-09,Loja Central A,920.56,185,59,63,63,Central,Loja Física
+2026-03-09,Loja Central B,2236.9,121,44,49,28,Central,Delivery
+2026-03-09,Loja Central C,3467.02,114,35,44,35,Central,Delivery
+2026-03-10,Loja Norte A,532.53,95,25,37,33,Norte,Delivery
+2026-03-10,Loja Norte B,1429.42,158,49,78,31,Norte,Loja Física
+2026-03-10,Loja Norte C,2345.97,147,56,73,18,Norte,Loja Física
+2026-03-10,Loja Sul A,3003.21,163,38,68,57,Sul,Delivery
+2026-03-10,Loja Sul B,2273.03,74,28,29,17,Sul,Loja Física
+2026-03-10,Loja Sul C,886.47,119,30,47,42,Sul,Loja Física
+2026-03-10,Loja Leste A,1195.7,114,24,47,43,Leste,Loja Física
+2026-03-10,Loja Leste B,4642.57,170,55,67,48,Leste,Delivery
+2026-03-10,Loja Leste C,6338.39,189,39,57,93,Leste,Loja Física
+2026-03-10,Loja Oeste A,2064.82,95,21,36,38,Oeste,Loja Física
+2026-03-10,Loja Oeste B,1315.39,64,21,23,20,Oeste,Delivery
+2026-03-10,Loja Oeste C,1549.74,99,34,36,29,Oeste,Delivery
+2026-03-10,Loja Central A,2820.98,93,29,45,19,Central,Loja Física
+2026-03-10,Loja Central B,1501.99,153,51,47,55,Central,Loja Física
+2026-03-10,Loja Central C,1988.95,178,45,59,74,Central,Loja Física
+2026-03-11,Loja Norte A,2991.18,120,40,45,35,Norte,Loja Física
+2026-03-11,Loja Norte B,2268.9,129,34,47,48,Norte,Loja Física
+2026-03-11,Loja Norte C,5519.47,194,42,93,59,Norte,Loja Física
+2026-03-11,Loja Sul A,656.8,72,22,35,15,Sul,Loja Física
+2026-03-11,Loja Sul B,581.85,52,14,16,22,Sul,Loja Física
+2026-03-11,Loja Sul C,3126.61,128,42,61,25,Sul,Loja Física
+2026-03-11,Loja Leste A,1576.9,83,22,29,32,Leste,Delivery
+2026-03-11,Loja Leste B,1058.31,85,24,39,22,Leste,Delivery
+2026-03-11,Loja Leste C,1516.48,101,26,44,31,Leste,Delivery
+2026-03-11,Loja Oeste A,1316.11,73,23,26,24,Oeste,Delivery
+2026-03-11,Loja Oeste B,474.9,93,34,35,24,Oeste,Loja Física
+2026-03-11,Loja Oeste C,2761.05,161,58,73,30,Oeste,Loja Física
+2026-03-11,Loja Central A,2460.42,137,41,63,33,Central,Delivery
+2026-03-11,Loja Central B,1578.32,73,17,25,31,Central,Delivery
+2026-03-11,Loja Central C,1149.38,58,17,24,17,Central,Delivery
+2026-03-12,Loja Norte A,1477.63,85,22,35,28,Norte,Loja Física
+2026-03-12,Loja Norte B,3366.14,132,43,62,27,Norte,Loja Física
+2026-03-12,Loja Norte C,1982.6,90,24,38,28,Norte,Loja Física
+2026-03-12,Loja Sul A,2407.79,97,25,38,34,Sul,Loja Física
+2026-03-12,Loja Sul B,1039.56,55,17,23,15,Sul,Delivery
+2026-03-12,Loja Sul C,2662.23,152,37,67,48,Sul,Delivery
+2026-03-12,Loja Leste A,2366.62,173,44,85,44,Leste,Loja Física
+2026-03-12,Loja Leste B,1444.05,179,51,63,65,Leste,Delivery
+2026-03-12,Loja Leste C,756.69,57,13,20,24,Leste,Loja Física
+2026-03-12,Loja Oeste A,3194.57,195,44,71,80,Oeste,Loja Física
+2026-03-12,Loja Oeste B,1073.97,73,25,33,15,Oeste,Delivery
+2026-03-12,Loja Oeste C,1740.79,151,30,49,72,Oeste,Loja Física
+2026-03-12,Loja Central A,1472.86,127,30,59,38,Central,Delivery
+2026-03-12,Loja Central B,1672.48,73,16,30,27,Central,Delivery
+2026-03-12,Loja Central C,1046.49,51,13,20,18,Central,Delivery
+2026-03-13,Loja Norte A,3153.44,104,34,48,22,Norte,Loja Física
+2026-03-13,Loja Norte B,756.25,74,19,36,19,Norte,Delivery
+2026-03-13,Loja Norte C,4173.75,133,48,59,26,Norte,Delivery
+2026-03-13,Loja Sul A,3190.08,150,40,65,45,Sul,Loja Física
+2026-03-13,Loja Sul B,3857.56,106,24,36,46,Sul,Delivery
+2026-03-13,Loja Sul C,3031.14,137,27,57,53,Sul,Delivery
+2026-03-13,Loja Leste A,876.27,69,15,23,31,Leste,Loja Física
+2026-03-13,Loja Leste B,1186.05,127,34,54,39,Leste,Delivery
+2026-03-13,Loja Leste C,1502.87,88,24,40,24,Leste,Loja Física
+2026-03-13,Loja Oeste A,4036.94,116,32,38,46,Oeste,Loja Física
+2026-03-13,Loja Oeste B,4626.79,169,45,75,49,Oeste,Delivery
+2026-03-13,Loja Oeste C,756.0,53,11,21,21,Oeste,Delivery
+2026-03-13,Loja Central A,796.72,52,20,19,13,Central,Loja Física
+2026-03-13,Loja Central B,1175.4,127,44,41,42,Central,Delivery
+2026-03-13,Loja Central C,1985.19,178,52,65,61,Central,Delivery
+2026-03-14,Loja Norte A,1987.72,78,30,31,17,Norte,Delivery
+2026-03-14,Loja Norte B,912.39,70,18,34,18,Norte,Delivery
+2026-03-14,Loja Norte C,1162.13,100,32,47,21,Norte,Delivery
+2026-03-14,Loja Sul A,1140.7,62,12,29,21,Sul,Delivery
+2026-03-14,Loja Sul B,1384.26,143,45,53,45,Sul,Delivery
+2026-03-14,Loja Sul C,1957.31,136,48,41,47,Sul,Delivery
+2026-03-14,Loja Leste A,1746.03,95,26,36,33,Leste,Delivery
+2026-03-14,Loja Leste B,1228.69,59,16,18,25,Leste,Delivery
+2026-03-14,Loja Leste C,1239.32,113,34,36,43,Leste,Loja Física
+2026-03-14,Loja Oeste A,3174.85,176,44,87,45,Oeste,Loja Física
+2026-03-14,Loja Oeste B,4221.1,184,38,67,79,Oeste,Loja Física
+2026-03-14,Loja Oeste C,2039.05,87,29,40,18,Oeste,Loja Física
+2026-03-14,Loja Central A,2150.1,147,50,54,43,Central,Delivery
+2026-03-14,Loja Central B,3249.72,158,37,70,51,Central,Loja Física
+2026-03-14,Loja Central C,4449.88,160,57,66,37,Central,Delivery
+2026-03-15,Loja Norte A,4039.67,181,64,79,38,Norte,Loja Física
+2026-03-15,Loja Norte B,2510.53,145,35,70,40,Norte,Delivery
+2026-03-15,Loja Norte C,859.41,97,32,40,25,Norte,Loja Física
+2026-03-15,Loja Sul A,1298.64,122,34,37,51,Sul,Delivery
+2026-03-15,Loja Sul B,910.19,83,24,38,21,Sul,Delivery
+2026-03-15,Loja Sul C,999.23,74,15,27,32,Sul,Loja Física
+2026-03-15,Loja Leste A,2714.89,123,39,48,36,Leste,Delivery
+2026-03-15,Loja Leste B,2396.45,134,39,55,40,Leste,Delivery
+2026-03-15,Loja Leste C,1864.03,137,49,45,43,Leste,Delivery
+2026-03-15,Loja Oeste A,1299.71,103,24,38,41,Oeste,Delivery
+2026-03-15,Loja Oeste B,1033.28,58,18,18,22,Oeste,Delivery
+2026-03-15,Loja Oeste C,6832.27,193,41,86,66,Oeste,Delivery
+2026-03-15,Loja Central A,2108.77,127,33,55,39,Central,Loja Física
+2026-03-15,Loja Central B,2242.95,89,20,32,37,Central,Delivery
+2026-03-15,Loja Central C,5810.51,156,31,77,48,Central,Delivery
+2026-03-16,Loja Norte A,1590.82,110,33,41,36,Norte,Loja Física
+2026-03-16,Loja Norte B,887.65,74,17,23,34,Norte,Delivery
+2026-03-16,Loja Norte C,2365.5,95,33,47,15,Norte,Delivery
+2026-03-16,Loja Sul A,3478.64,190,66,72,52,Sul,Delivery
+2026-03-16,Loja Sul B,2832.57,131,42,56,33,Sul,Delivery
+2026-03-16,Loja Sul C,1864.48,178,49,83,46,Sul,Delivery
+2026-03-16,Loja Leste A,3035.67,168,64,55,49,Leste,Loja Física
+2026-03-16,Loja Leste B,1689.42,152,46,55,51,Leste,Delivery
+2026-03-16,Loja Leste C,1890.07,94,20,39,35,Leste,Delivery
+2026-03-16,Loja Oeste A,1551.57,157,51,66,40,Oeste,Loja Física
+2026-03-16,Loja Oeste B,2926.27,178,56,79,43,Oeste,Loja Física
+2026-03-16,Loja Oeste C,1791.58,133,31,56,46,Oeste,Loja Física
+2026-03-16,Loja Central A,845.67,144,46,65,33,Central,Delivery
+2026-03-16,Loja Central B,4388.88,191,45,92,54,Central,Delivery
+2026-03-16,Loja Central C,3333.64,144,35,56,53,Central,Loja Física
+2026-03-17,Loja Norte A,759.75,132,28,40,64,Norte,Delivery
+2026-03-17,Loja Norte B,1527.07,167,53,83,31,Norte,Loja Física
+2026-03-17,Loja Norte C,2773.55,168,37,70,61,Norte,Delivery
+2026-03-17,Loja Sul A,1106.53,90,30,28,32,Sul,Loja Física
+2026-03-17,Loja Sul B,5112.95,154,61,72,21,Sul,Loja Física
+2026-03-17,Loja Sul C,5184.45,156,58,63,35,Sul,Loja Física
+2026-03-17,Loja Leste A,1897.35,162,55,58,49,Leste,Delivery
+2026-03-17,Loja Leste B,1098.93,60,20,24,16,Leste,Delivery
+2026-03-17,Loja Leste C,2711.83,159,35,74,50,Leste,Loja Física
+2026-03-17,Loja Oeste A,1529.99,93,30,30,33,Oeste,Loja Física
+2026-03-17,Loja Oeste B,1333.53,173,37,74,62,Oeste,Loja Física
+2026-03-17,Loja Oeste C,4319.09,167,49,58,60,Oeste,Delivery
+2026-03-17,Loja Central A,2380.78,137,39,62,36,Central,Delivery
+2026-03-17,Loja Central B,2577.06,195,40,63,92,Central,Delivery
+2026-03-17,Loja Central C,743.64,56,15,20,21,Central,Delivery
+2026-03-18,Loja Norte A,3514.69,128,29,54,45,Norte,Delivery
+2026-03-18,Loja Norte B,2902.79,162,37,74,51,Norte,Loja Física
+2026-03-18,Loja Norte C,1017.85,87,32,30,25,Norte,Loja Física
+2026-03-18,Loja Sul A,1710.56,57,18,18,21,Sul,Loja Física
+2026-03-18,Loja Sul B,1297.88,116,34,54,28,Sul,Delivery
+2026-03-18,Loja Sul C,4079.13,172,40,63,69,Sul,Loja Física
+2026-03-18,Loja Leste A,5874.4,200,52,74,74,Leste,Delivery
+2026-03-18,Loja Leste B,1803.65,93,27,36,30,Leste,Delivery
+2026-03-18,Loja Leste C,1336.23,53,11,18,24,Leste,Loja Física
+2026-03-18,Loja Oeste A,1087.27,107,34,47,26,Oeste,Loja Física
+2026-03-18,Loja Oeste B,1941.25,100,29,48,23,Oeste,Loja Física
+2026-03-18,Loja Oeste C,4333.76,184,64,68,52,Oeste,Loja Física
+2026-03-18,Loja Central A,3238.27,152,59,61,32,Central,Delivery
+2026-03-18,Loja Central B,6533.95,191,70,77,44,Central,Loja Física
+2026-03-18,Loja Central C,1292.59,64,19,22,23,Central,Loja Física
+2026-03-19,Loja Norte A,1111.27,112,38,37,37,Norte,Delivery
+2026-03-19,Loja Norte B,2546.06,191,66,85,40,Norte,Loja Física
+2026-03-19,Loja Norte C,1067.8,83,17,28,38,Norte,Delivery
+2026-03-19,Loja Sul A,1897.75,168,63,52,53,Sul,Loja Física
+2026-03-19,Loja Sul B,1515.33,100,28,39,33,Sul,Loja Física
+2026-03-19,Loja Sul C,4709.59,188,60,67,61,Sul,Loja Física
+2026-03-19,Loja Leste A,4495.91,198,75,87,36,Leste,Delivery
+2026-03-19,Loja Leste B,1562.51,99,32,44,23,Leste,Loja Física
+2026-03-19,Loja Leste C,2380.77,114,36,45,33,Leste,Loja Física
+2026-03-19,Loja Oeste A,2035.08,134,40,65,29,Oeste,Delivery
+2026-03-19,Loja Oeste B,2838.16,117,29,41,47,Oeste,Delivery
+2026-03-19,Loja Oeste C,1716.38,162,56,54,52,Oeste,Loja Física
+2026-03-19,Loja Central A,3944.53,131,39,52,40,Central,Loja Física
+2026-03-19,Loja Central B,1055.83,66,22,21,23,Central,Delivery
+2026-03-19,Loja Central C,3122.97,137,42,46,49,Central,Loja Física
+2026-03-20,Loja Norte A,1675.48,109,32,39,38,Norte,Delivery
+2026-03-20,Loja Norte B,2118.99,76,29,25,22,Norte,Loja Física
+2026-03-20,Loja Norte C,968.49,132,46,60,26,Norte,Loja Física
+2026-03-20,Loja Sul A,1056.22,90,27,35,28,Sul,Delivery
+2026-03-20,Loja Sul B,952.82,118,29,57,32,Sul,Delivery
+2026-03-20,Loja Sul C,1189.45,144,38,53,53,Sul,Delivery
+2026-03-20,Loja Leste A,2370.45,165,51,74,40,Leste,Loja Física
+2026-03-20,Loja Leste B,1099.0,153,43,65,45,Leste,Loja Física
+2026-03-20,Loja Leste C,2658.16,166,33,73,60,Leste,Loja Física
+2026-03-20,Loja Oeste A,1049.75,115,31,41,43,Oeste,Delivery
+2026-03-20,Loja Oeste B,2507.86,133,46,61,26,Oeste,Delivery
+2026-03-20,Loja Oeste C,878.69,120,29,43,48,Oeste,Delivery
+2026-03-20,Loja Central A,6005.26,170,66,77,27,Central,Delivery
+2026-03-20,Loja Central B,1559.8,174,69,72,33,Central,Loja Física
+2026-03-20,Loja Central C,558.16,75,20,30,25,Central,Delivery
+2026-03-21,Loja Norte A,904.15,122,27,54,41,Norte,Delivery
+2026-03-21,Loja Norte B,4589.96,155,58,64,33,Norte,Loja Física
+2026-03-21,Loja Norte C,1377.9,193,48,80,65,Norte,Delivery
+2026-03-21,Loja Sul A,3236.43,192,49,58,85,Sul,Loja Física
+2026-03-21,Loja Sul B,2916.96,130,35,59,36,Sul,Loja Física
+2026-03-21,Loja Sul C,1155.84,97,23,36,38,Sul,Loja Física
+2026-03-21,Loja Leste A,1493.42,116,40,35,41,Leste,Loja Física
+2026-03-21,Loja Leste B,3150.37,155,55,71,29,Leste,Loja Física
+2026-03-21,Loja Leste C,1812.27,181,56,90,35,Leste,Delivery
+2026-03-21,Loja Oeste A,3894.69,187,58,79,50,Oeste,Loja Física
+2026-03-21,Loja Oeste B,1718.96,194,60,62,72,Oeste,Loja Física
+2026-03-21,Loja Oeste C,3758.81,181,39,87,55,Oeste,Loja Física
+2026-03-21,Loja Central A,1742.46,68,19,24,25,Central,Delivery
+2026-03-21,Loja Central B,2069.61,88,18,37,33,Central,Delivery
+2026-03-21,Loja Central C,2740.28,166,56,77,33,Central,Delivery
+2026-03-22,Loja Norte A,953.17,55,14,23,18,Norte,Delivery
+2026-03-22,Loja Norte B,445.32,54,14,17,23,Norte,Loja Física
+2026-03-22,Loja Norte C,5430.03,199,52,77,70,Norte,Loja Física
+2026-03-22,Loja Sul A,3909.07,197,74,87,36,Sul,Loja Física
+2026-03-22,Loja Sul B,2898.49,98,23,32,43,Sul,Loja Física
+2026-03-22,Loja Sul C,2362.2,186,68,84,34,Sul,Delivery
+2026-03-22,Loja Leste A,826.3,67,17,23,27,Leste,Loja Física
+2026-03-22,Loja Leste B,1871.85,101,28,35,38,Leste,Loja Física
+2026-03-22,Loja Leste C,1224.89,140,52,68,20,Leste,Loja Física
+2026-03-22,Loja Oeste A,1002.59,146,54,68,24,Oeste,Loja Física
+2026-03-22,Loja Oeste B,1476.22,147,42,49,56,Oeste,Delivery
+2026-03-22,Loja Oeste C,934.6,81,19,39,23,Oeste,Loja Física
+2026-03-22,Loja Central A,2828.11,91,20,36,35,Central,Delivery
+2026-03-22,Loja Central B,2155.92,131,31,41,59,Central,Delivery
+2026-03-22,Loja Central C,2417.26,172,38,67,67,Central,Loja Física
+2026-03-23,Loja Norte A,2042.6,147,41,69,37,Norte,Delivery
+2026-03-23,Loja Norte B,4925.39,142,52,54,36,Norte,Delivery
+2026-03-23,Loja Norte C,3109.91,108,23,46,39,Norte,Delivery
+2026-03-23,Loja Sul A,1068.4,170,66,75,29,Sul,Delivery
+2026-03-23,Loja Sul B,867.07,61,15,25,21,Sul,Loja Física
+2026-03-23,Loja Sul C,1875.57,182,61,82,39,Sul,Loja Física
+2026-03-23,Loja Leste A,2568.48,103,34,38,31,Leste,Delivery
+2026-03-23,Loja Leste B,1225.01,90,21,36,33,Leste,Loja Física
+2026-03-23,Loja Leste C,1578.43,96,36,43,17,Leste,Loja Física
+2026-03-23,Loja Oeste A,2337.58,177,49,66,62,Oeste,Delivery
+2026-03-23,Loja Oeste B,1181.19,132,27,40,65,Oeste,Delivery
+2026-03-23,Loja Oeste C,1501.25,58,13,22,23,Oeste,Delivery
+2026-03-23,Loja Central A,1816.11,184,40,68,76,Central,Loja Física
+2026-03-23,Loja Central B,829.65,73,15,36,22,Central,Delivery
+2026-03-23,Loja Central C,2804.44,156,47,50,59,Central,Loja Física
+2026-03-24,Loja Norte A,1495.58,129,49,45,35,Norte,Delivery
+2026-03-24,Loja Norte B,2539.17,188,60,83,45,Norte,Delivery
+2026-03-24,Loja Norte C,5003.41,176,65,59,52,Norte,Loja Física
+2026-03-24,Loja Sul A,2368.53,181,70,62,49,Sul,Loja Física
+2026-03-24,Loja Sul B,2072.46,74,18,31,25,Sul,Loja Física
+2026-03-24,Loja Sul C,1301.23,107,37,38,32,Sul,Delivery
+2026-03-24,Loja Leste A,2214.5,183,72,64,47,Leste,Loja Física
+2026-03-24,Loja Leste B,1455.46,133,44,55,34,Leste,Loja Física
+2026-03-24,Loja Leste C,3961.49,148,53,73,22,Leste,Loja Física
+2026-03-24,Loja Oeste A,1661.96,86,31,29,26,Oeste,Delivery
+2026-03-24,Loja Oeste B,1231.32,132,39,62,31,Oeste,Loja Física
+2026-03-24,Loja Oeste C,2890.3,197,78,76,43,Oeste,Delivery
+2026-03-24,Loja Central A,2284.55,189,65,81,43,Central,Delivery
+2026-03-24,Loja Central B,2390.14,136,32,50,54,Central,Delivery
+2026-03-24,Loja Central C,3623.5,190,41,89,60,Central,Delivery
+2026-03-25,Loja Norte A,2094.91,66,18,20,28,Norte,Loja Física
+2026-03-25,Loja Norte B,1135.98,74,21,23,30,Norte,Delivery
+2026-03-25,Loja Norte C,2181.32,82,21,31,30,Norte,Loja Física
+2026-03-25,Loja Sul A,2184.64,179,65,85,29,Sul,Loja Física
+2026-03-25,Loja Sul B,2212.17,86,21,26,39,Sul,Delivery
+2026-03-25,Loja Sul C,2409.47,184,42,86,56,Sul,Loja Física
+2026-03-25,Loja Leste A,1555.53,186,45,91,50,Leste,Loja Física
+2026-03-25,Loja Leste B,1113.83,145,48,61,36,Leste,Loja Física
+2026-03-25,Loja Leste C,1581.5,88,34,33,21,Leste,Loja Física
+2026-03-25,Loja Oeste A,875.41,121,47,46,28,Oeste,Delivery
+2026-03-25,Loja Oeste B,6697.12,183,69,72,42,Oeste,Loja Física
+2026-03-25,Loja Oeste C,1104.62,126,31,51,44,Oeste,Delivery
+2026-03-25,Loja Central A,2258.43,103,33,50,20,Central,Loja Física
+2026-03-25,Loja Central B,1206.26,155,45,51,59,Central,Loja Física
+2026-03-25,Loja Central C,2462.2,150,49,56,45,Central,Loja Física
+2026-03-26,Loja Norte A,3390.0,113,24,55,34,Norte,Delivery
+2026-03-26,Loja Norte B,2024.35,85,19,38,28,Norte,Loja Física
+2026-03-26,Loja Norte C,1952.71,102,34,46,22,Norte,Loja Física
+2026-03-26,Loja Sul A,1371.28,80,24,36,20,Sul,Delivery
+2026-03-26,Loja Sul B,2332.44,109,28,35,46,Sul,Delivery
+2026-03-26,Loja Sul C,953.07,89,35,42,12,Sul,Delivery
+2026-03-26,Loja Leste A,3193.01,119,24,55,40,Leste,Delivery
+2026-03-26,Loja Leste B,1524.05,78,22,26,30,Leste,Delivery
+2026-03-26,Loja Leste C,1194.37,124,27,61,36,Leste,Delivery
+2026-03-26,Loja Oeste A,2962.38,111,36,51,24,Oeste,Delivery
+2026-03-26,Loja Oeste B,1374.62,157,34,71,52,Oeste,Delivery
+2026-03-26,Loja Oeste C,2146.41,114,30,49,35,Oeste,Delivery
+2026-03-26,Loja Central A,1506.44,141,31,65,45,Central,Loja Física
+2026-03-26,Loja Central B,2710.94,199,63,86,50,Central,Loja Física
+2026-03-26,Loja Central C,2396.79,174,63,65,46,Central,Delivery
+2026-03-27,Loja Norte A,826.69,60,19,27,14,Norte,Loja Física
+2026-03-27,Loja Norte B,1601.73,197,77,68,52,Norte,Delivery
+2026-03-27,Loja Norte C,2797.84,150,31,64,55,Norte,Delivery
+2026-03-27,Loja Sul A,2068.57,167,50,81,36,Sul,Delivery
+2026-03-27,Loja Sul B,875.65,56,13,23,20,Sul,Delivery
+2026-03-27,Loja Sul C,663.21,75,21,22,32,Sul,Delivery
+2026-03-27,Loja Leste A,2243.25,114,38,42,34,Leste,Loja Física
+2026-03-27,Loja Leste B,2421.35,120,25,46,49,Leste,Delivery
+2026-03-27,Loja Leste C,907.3,91,32,37,22,Leste,Delivery
+2026-03-27,Loja Oeste A,3789.49,152,54,50,48,Oeste,Delivery
+2026-03-27,Loja Oeste B,597.37,72,23,32,17,Oeste,Loja Física
+2026-03-27,Loja Oeste C,2001.98,131,28,58,45,Oeste,Delivery
+2026-03-27,Loja Central A,2517.14,130,42,58,30,Central,Loja Física
+2026-03-27,Loja Central B,2480.74,117,34,42,41,Central,Delivery
+2026-03-27,Loja Central C,4090.22,142,55,51,36,Central,Loja Física
+2026-03-28,Loja Norte A,1163.13,98,37,43,18,Norte,Delivery
+2026-03-28,Loja Norte B,4384.15,193,53,84,56,Norte,Loja Física
+2026-03-28,Loja Norte C,469.0,73,23,34,16,Norte,Delivery
+2026-03-28,Loja Sul A,803.57,117,31,43,43,Sul,Loja Física
+2026-03-28,Loja Sul B,1222.42,148,57,68,23,Sul,Delivery
+2026-03-28,Loja Sul C,7065.36,195,51,67,77,Sul,Loja Física
+2026-03-28,Loja Leste A,1397.43,112,37,39,36,Leste,Delivery
+2026-03-28,Loja Leste B,3322.94,107,42,37,28,Leste,Loja Física
+2026-03-28,Loja Leste C,2991.38,162,39,49,74,Leste,Loja Física
+2026-03-28,Loja Oeste A,1151.52,55,16,21,18,Oeste,Loja Física
+2026-03-28,Loja Oeste B,2375.93,155,47,58,50,Oeste,Delivery
+2026-03-28,Loja Oeste C,2664.35,116,45,53,18,Oeste,Delivery
+2026-03-28,Loja Central A,1671.34,160,60,77,23,Central,Delivery
+2026-03-28,Loja Central B,2615.27,188,73,61,54,Central,Loja Física
+2026-03-28,Loja Central C,2919.37,187,41,90,56,Central,Delivery
+2026-03-29,Loja Norte A,1893.47,187,67,78,42,Norte,Delivery
+2026-03-29,Loja Norte B,4553.23,191,46,67,78,Norte,Loja Física
+2026-03-29,Loja Norte C,4582.34,167,50,64,53,Norte,Loja Física
+2026-03-29,Loja Sul A,604.48,55,17,17,21,Sul,Delivery
+2026-03-29,Loja Sul B,4604.97,172,39,75,58,Sul,Loja Física
+2026-03-29,Loja Sul C,1954.09,120,46,53,21,Sul,Delivery
+2026-03-29,Loja Leste A,4930.04,160,62,79,19,Leste,Loja Física
+2026-03-29,Loja Leste B,1590.17,165,56,59,50,Leste,Loja Física
+2026-03-29,Loja Leste C,6064.44,195,58,74,63,Leste,Delivery
+2026-03-29,Loja Oeste A,1177.87,51,10,22,19,Oeste,Loja Física
+2026-03-29,Loja Oeste B,1487.24,68,20,30,18,Oeste,Loja Física
+2026-03-29,Loja Oeste C,2621.93,113,40,56,17,Oeste,Loja Física
+2026-03-29,Loja Central A,773.09,57,17,18,22,Central,Loja Física
+2026-03-29,Loja Central B,1982.95,74,23,36,15,Central,Delivery
+2026-03-29,Loja Central C,2694.79,154,45,72,37,Central,Loja Física
+2026-03-30,Loja Norte A,995.36,74,17,28,29,Norte,Delivery
+2026-03-30,Loja Norte B,1696.34,177,44,60,73,Norte,Delivery
+2026-03-30,Loja Norte C,1156.66,70,24,28,18,Norte,Loja Física
+2026-03-30,Loja Sul A,1443.81,65,13,24,28,Sul,Loja Física
+2026-03-30,Loja Sul B,1906.59,50,15,15,20,Sul,Delivery
+2026-03-30,Loja Sul C,1262.3,128,48,52,28,Sul,Loja Física
+2026-03-30,Loja Leste A,1438.92,94,30,31,33,Leste,Loja Física
+2026-03-30,Loja Leste B,902.02,138,46,45,47,Leste,Delivery
+2026-03-30,Loja Leste C,1931.8,196,56,91,49,Leste,Loja Física
+2026-03-30,Loja Oeste A,1127.37,179,65,54,60,Oeste,Loja Física
+2026-03-30,Loja Oeste B,5337.45,187,67,60,60,Oeste,Delivery
+2026-03-30,Loja Oeste C,829.3,124,41,51,32,Oeste,Loja Física
+2026-03-30,Loja Central A,1767.72,75,24,37,14,Central,Delivery
+2026-03-30,Loja Central B,6125.77,166,51,62,53,Central,Delivery
+2026-03-30,Loja Central C,1582.24,79,16,27,36,Central,Loja Física
+2026-03-31,Loja Norte A,2591.9,111,33,50,28,Norte,Loja Física
+2026-03-31,Loja Norte B,1009.94,141,55,55,31,Norte,Loja Física
+2026-03-31,Loja Norte C,1310.88,183,60,88,35,Norte,Delivery
+2026-03-31,Loja Sul A,4824.7,189,48,61,80,Sul,Loja Física
+2026-03-31,Loja Sul B,4201.45,124,35,47,42,Sul,Loja Física
+2026-03-31,Loja Sul C,1872.98,175,38,72,65,Sul,Delivery
+2026-03-31,Loja Leste A,2830.79,128,45,45,38,Leste,Loja Física
+2026-03-31,Loja Leste B,4427.76,185,43,58,84,Leste,Loja Física
+2026-03-31,Loja Leste C,3184.37,130,39,40,51,Leste,Delivery
+2026-03-31,Loja Oeste A,1452.92,148,58,45,45,Oeste,Delivery
+2026-03-31,Loja Oeste B,4164.33,180,42,67,71,Oeste,Loja Física
+2026-03-31,Loja Oeste C,693.02,104,40,49,15,Oeste,Delivery
+2026-03-31,Loja Central A,1902.26,68,20,28,20,Central,Loja Física
+2026-03-31,Loja Central B,2210.59,61,14,26,21,Central,Delivery
+2026-03-31,Loja Central C,1039.2,51,16,24,11,Central,Delivery
+2026-04-01,Loja Norte A,2729.14,95,34,35,26,Norte,Delivery
+2026-04-01,Loja Norte B,521.52,61,19,25,17,Norte,Delivery
+2026-04-01,Loja Norte C,3084.93,158,54,75,29,Norte,Delivery
+2026-04-01,Loja Sul A,2697.89,102,33,49,20,Sul,Delivery
+2026-04-01,Loja Sul B,580.43,52,14,18,20,Sul,Loja Física
+2026-04-01,Loja Sul C,1598.84,174,35,76,63,Sul,Loja Física
+2026-04-01,Loja Leste A,2155.54,164,55,51,58,Leste,Loja Física
+2026-04-01,Loja Leste B,635.35,79,28,24,27,Leste,Delivery
+2026-04-01,Loja Leste C,3374.71,92,23,40,29,Leste,Delivery
+2026-04-01,Loja Oeste A,1551.84,122,31,50,41,Oeste,Loja Física
+2026-04-01,Loja Oeste B,700.56,80,30,27,23,Oeste,Loja Física
+2026-04-01,Loja Oeste C,4371.58,192,46,77,69,Oeste,Loja Física
+2026-04-01,Loja Central A,3289.46,170,37,52,81,Central,Delivery
+2026-04-01,Loja Central B,1062.53,97,32,30,35,Central,Delivery
+2026-04-01,Loja Central C,1385.61,144,32,60,52,Central,Loja Física
+2026-04-02,Loja Norte A,3861.48,178,42,60,76,Norte,Delivery
+2026-04-02,Loja Norte B,1142.33,61,23,22,16,Norte,Delivery
+2026-04-02,Loja Norte C,1280.95,94,22,40,32,Norte,Delivery
+2026-04-02,Loja Sul A,2013.18,147,37,45,65,Sul,Loja Física
+2026-04-02,Loja Sul B,1722.96,99,34,30,35,Sul,Delivery
+2026-04-02,Loja Sul C,1106.06,67,21,23,23,Sul,Loja Física
+2026-04-02,Loja Leste A,1350.11,86,22,27,37,Leste,Loja Física
+2026-04-02,Loja Leste B,3687.19,154,31,68,55,Leste,Delivery
+2026-04-02,Loja Leste C,1007.55,144,54,62,28,Leste,Loja Física
+2026-04-02,Loja Oeste A,1443.61,147,31,55,61,Oeste,Loja Física
+2026-04-02,Loja Oeste B,2335.27,107,22,43,42,Oeste,Loja Física
+2026-04-02,Loja Oeste C,6066.02,171,56,60,55,Oeste,Delivery
+2026-04-02,Loja Central A,2856.19,165,40,65,60,Central,Delivery
+2026-04-02,Loja Central B,2198.71,138,45,54,39,Central,Loja Física
+2026-04-02,Loja Central C,2837.54,166,45,54,67,Central,Loja Física
+2026-04-03,Loja Norte A,3755.98,149,56,55,38,Norte,Loja Física
+2026-04-03,Loja Norte B,3448.22,160,36,62,62,Norte,Loja Física
+2026-04-03,Loja Norte C,1508.33,152,49,51,52,Norte,Delivery
+2026-04-03,Loja Sul A,4181.17,157,45,61,51,Sul,Delivery
+2026-04-03,Loja Sul B,1760.66,168,44,63,61,Sul,Loja Física
+2026-04-03,Loja Sul C,1443.34,112,26,37,49,Sul,Delivery
+2026-04-03,Loja Leste A,4290.2,168,59,64,45,Leste,Delivery
+2026-04-03,Loja Leste B,1327.46,104,30,42,32,Leste,Delivery
+2026-04-03,Loja Leste C,2120.94,126,49,59,18,Leste,Delivery
+2026-04-03,Loja Oeste A,785.31,63,16,30,17,Oeste,Delivery
+2026-04-03,Loja Oeste B,3170.67,182,70,55,57,Oeste,Loja Física
+2026-04-03,Loja Oeste C,3390.11,148,34,73,41,Oeste,Loja Física
+2026-04-03,Loja Central A,4097.2,152,54,50,48,Central,Delivery
+2026-04-03,Loja Central B,2381.61,169,58,76,35,Central,Delivery
+2026-04-03,Loja Central C,1783.98,130,45,52,33,Central,Loja Física
+2026-04-04,Loja Norte A,1648.61,74,16,22,36,Norte,Loja Física
+2026-04-04,Loja Norte B,1915.98,134,35,64,35,Norte,Loja Física
+2026-04-04,Loja Norte C,1903.97,88,23,27,38,Norte,Delivery
+2026-04-04,Loja Sul A,7229.41,199,57,73,69,Sul,Loja Física
+2026-04-04,Loja Sul B,1714.32,124,44,41,39,Sul,Loja Física
+2026-04-04,Loja Sul C,1320.82,91,27,38,26,Sul,Loja Física
+2026-04-04,Loja Leste A,4148.25,193,56,95,42,Leste,Loja Física
+2026-04-04,Loja Leste B,2056.53,79,18,30,31,Leste,Loja Física
+2026-04-04,Loja Leste C,1777.22,84,24,33,27,Leste,Loja Física
+2026-04-04,Loja Oeste A,4770.62,200,72,97,31,Oeste,Loja Física
+2026-04-04,Loja Oeste B,4988.12,164,64,80,20,Oeste,Delivery
+2026-04-04,Loja Oeste C,2393.57,136,51,42,43,Oeste,Loja Física
+2026-04-04,Loja Central A,2745.67,126,48,40,38,Central,Loja Física
+2026-04-04,Loja Central B,1582.9,132,47,60,25,Central,Delivery
+2026-04-04,Loja Central C,1624.74,176,66,67,43,Central,Loja Física
+2026-04-05,Loja Norte A,2768.68,143,34,50,59,Norte,Loja Física
+2026-04-05,Loja Norte B,2708.02,175,40,75,60,Norte,Delivery
+2026-04-05,Loja Norte C,1272.55,117,33,36,48,Norte,Delivery
+2026-04-05,Loja Sul A,890.37,70,14,33,23,Sul,Loja Física
+2026-04-05,Loja Sul B,1745.29,196,54,94,48,Sul,Delivery
+2026-04-05,Loja Sul C,1464.36,149,49,65,35,Sul,Delivery
+2026-04-05,Loja Leste A,3408.98,143,53,65,25,Leste,Delivery
+2026-04-05,Loja Leste B,1090.17,137,36,48,53,Leste,Loja Física
+2026-04-05,Loja Leste C,1861.41,175,37,68,70,Leste,Loja Física
+2026-04-05,Loja Oeste A,4381.11,131,49,39,43,Oeste,Loja Física
+2026-04-05,Loja Oeste B,757.19,77,18,24,35,Oeste,Loja Física
+2026-04-05,Loja Oeste C,1976.91,72,14,21,37,Oeste,Delivery
+2026-04-05,Loja Central A,789.13,68,22,32,14,Central,Delivery
+2026-04-05,Loja Central B,2992.02,134,29,43,62,Central,Loja Física
+2026-04-05,Loja Central C,1636.67,101,38,34,29,Central,Loja Física
+2026-04-06,Loja Norte A,686.77,50,16,17,17,Norte,Loja Física
+2026-04-06,Loja Norte B,2663.65,149,45,58,46,Norte,Loja Física
+2026-04-06,Loja Norte C,4902.17,176,41,62,73,Norte,Loja Física
+2026-04-06,Loja Sul A,2295.85,163,32,54,77,Sul,Loja Física
+2026-04-06,Loja Sul B,786.77,117,36,57,24,Sul,Loja Física
+2026-04-06,Loja Sul C,691.6,69,25,31,13,Sul,Loja Física
+2026-04-06,Loja Leste A,1864.61,91,33,32,26,Leste,Delivery
+2026-04-06,Loja Leste B,4916.14,179,43,62,74,Leste,Delivery
+2026-04-06,Loja Leste C,1778.44,111,36,54,21,Leste,Delivery
+2026-04-06,Loja Oeste A,3447.02,122,25,38,59,Oeste,Delivery
+2026-04-06,Loja Oeste B,1808.59,65,23,20,22,Oeste,Delivery
+2026-04-06,Loja Oeste C,1717.77,53,17,19,17,Oeste,Delivery
+2026-04-06,Loja Central A,1631.05,66,22,24,20,Central,Delivery
+2026-04-06,Loja Central B,2174.16,172,44,68,60,Central,Loja Física
+2026-04-06,Loja Central C,2933.56,108,22,40,46,Central,Delivery
+2026-04-07,Loja Norte A,2067.91,168,60,82,26,Norte,Delivery
+2026-04-07,Loja Norte B,3368.45,168,49,55,64,Norte,Delivery
+2026-04-07,Loja Norte C,3937.71,157,58,71,28,Norte,Delivery
+2026-04-07,Loja Sul A,1363.69,88,17,40,31,Sul,Loja Física
+2026-04-07,Loja Sul B,2332.55,88,20,28,40,Sul,Delivery
+2026-04-07,Loja Sul C,1925.06,170,45,51,74,Sul,Delivery
+2026-04-07,Loja Leste A,974.85,90,35,36,19,Leste,Loja Física
+2026-04-07,Loja Leste B,1490.41,98,33,37,28,Leste,Loja Física
+2026-04-07,Loja Leste C,4882.31,174,36,85,53,Leste,Loja Física
+2026-04-07,Loja Oeste A,3508.87,132,42,43,47,Oeste,Delivery
+2026-04-07,Loja Oeste B,1053.63,105,21,37,47,Oeste,Loja Física
+2026-04-07,Loja Oeste C,2778.85,136,45,52,39,Oeste,Loja Física
+2026-04-07,Loja Central A,2039.28,83,22,31,30,Central,Loja Física
+2026-04-07,Loja Central B,3580.87,144,42,43,59,Central,Delivery
+2026-04-07,Loja Central C,2287.84,156,60,68,28,Central,Delivery
+2026-04-08,Loja Norte A,5301.68,171,53,71,47,Norte,Delivery
+2026-04-08,Loja Norte B,3304.82,99,38,45,16,Norte,Loja Física
+2026-04-08,Loja Norte C,1967.81,110,27,45,38,Norte,Loja Física
+2026-04-08,Loja Sul A,2823.39,130,28,58,44,Sul,Delivery
+2026-04-08,Loja Sul B,1087.74,70,20,33,17,Sul,Delivery
+2026-04-08,Loja Sul C,1206.91,67,23,30,14,Sul,Delivery
+2026-04-08,Loja Leste A,1657.15,86,30,33,23,Leste,Loja Física
+2026-04-08,Loja Leste B,454.9,50,18,19,13,Leste,Loja Física
+2026-04-08,Loja Leste C,4112.21,119,35,43,41,Leste,Loja Física
+2026-04-08,Loja Oeste A,3631.6,98,31,31,36,Oeste,Loja Física
+2026-04-08,Loja Oeste B,2038.21,99,29,34,36,Oeste,Delivery
+2026-04-08,Loja Oeste C,4402.29,158,58,56,44,Oeste,Loja Física
+2026-04-08,Loja Central A,772.28,86,17,36,33,Central,Delivery
+2026-04-08,Loja Central B,1172.65,70,24,34,12,Central,Delivery
+2026-04-08,Loja Central C,3625.05,147,46,66,35,Central,Loja Física
+2026-04-09,Loja Norte A,2577.91,120,28,50,42,Norte,Delivery
+2026-04-09,Loja Norte B,2368.27,91,24,27,40,Norte,Loja Física
+2026-04-09,Loja Norte C,3505.57,133,36,48,49,Norte,Delivery
+2026-04-09,Loja Sul A,1594.61,190,54,69,67,Sul,Loja Física
+2026-04-09,Loja Sul B,3713.34,133,46,57,30,Sul,Delivery
+2026-04-09,Loja Sul C,4297.69,194,40,78,76,Sul,Loja Física
+2026-04-09,Loja Leste A,1488.48,177,37,58,82,Leste,Loja Física
+2026-04-09,Loja Leste B,661.6,110,29,40,41,Leste,Loja Física
+2026-04-09,Loja Leste C,2667.4,155,33,58,64,Leste,Loja Física
+2026-04-09,Loja Oeste A,3169.14,184,65,80,39,Oeste,Loja Física
+2026-04-09,Loja Oeste B,1987.01,103,22,49,32,Oeste,Delivery
+2026-04-09,Loja Oeste C,1365.07,108,35,44,29,Oeste,Loja Física
+2026-04-09,Loja Central A,1887.52,107,22,48,37,Central,Loja Física
+2026-04-09,Loja Central B,1905.15,85,22,38,25,Central,Delivery
+2026-04-09,Loja Central C,566.49,54,13,16,25,Central,Delivery
+2026-04-10,Loja Norte A,1637.85,190,45,58,87,Norte,Loja Física
+2026-04-10,Loja Norte B,4189.31,199,53,62,84,Norte,Delivery
+2026-04-10,Loja Norte C,6494.24,180,41,61,78,Norte,Loja Física
+2026-04-10,Loja Sul A,2173.13,122,33,46,43,Sul,Loja Física
+2026-04-10,Loja Sul B,1940.09,115,30,40,45,Sul,Loja Física
+2026-04-10,Loja Sul C,1354.78,123,35,60,28,Sul,Delivery
+2026-04-10,Loja Leste A,962.21,102,21,47,34,Leste,Loja Física
+2026-04-10,Loja Leste B,2503.52,101,35,36,30,Leste,Loja Física
+2026-04-10,Loja Leste C,1469.71,127,26,54,47,Leste,Delivery
+2026-04-10,Loja Oeste A,1661.94,105,27,36,42,Oeste,Loja Física
+2026-04-10,Loja Oeste B,1588.79,135,52,50,33,Oeste,Delivery
+2026-04-10,Loja Oeste C,4199.56,167,53,55,59,Oeste,Delivery
+2026-04-10,Loja Central A,1856.88,172,44,85,43,Central,Loja Física
+2026-04-10,Loja Central B,1346.52,69,26,32,11,Central,Loja Física
+2026-04-10,Loja Central C,1274.72,52,20,18,14,Central,Delivery
+2026-04-11,Loja Norte A,5370.73,195,42,72,81,Norte,Loja Física
+2026-04-11,Loja Norte B,2255.77,158,43,56,59,Norte,Loja Física
+2026-04-11,Loja Norte C,3862.76,126,47,45,34,Norte,Delivery
+2026-04-11,Loja Sul A,2699.42,166,62,76,28,Sul,Loja Física
+2026-04-11,Loja Sul B,2198.65,80,27,34,19,Sul,Loja Física
+2026-04-11,Loja Sul C,1297.43,171,38,76,57,Sul,Delivery
+2026-04-11,Loja Leste A,4969.73,198,50,60,88,Leste,Delivery
+2026-04-11,Loja Leste B,1890.87,66,15,20,31,Leste,Delivery
+2026-04-11,Loja Leste C,455.65,57,16,22,19,Leste,Loja Física
+2026-04-11,Loja Oeste A,648.29,53,11,16,26,Oeste,Delivery
+2026-04-11,Loja Oeste B,2807.77,122,29,43,50,Oeste,Delivery
+2026-04-11,Loja Oeste C,1655.86,98,28,29,41,Oeste,Loja Física
+2026-04-11,Loja Central A,6639.3,194,55,95,44,Central,Delivery
+2026-04-11,Loja Central B,2202.52,109,37,38,34,Central,Loja Física
+2026-04-11,Loja Central C,1507.05,144,42,47,55,Central,Delivery
+2026-04-12,Loja Norte A,3550.38,191,50,81,60,Norte,Delivery
+2026-04-12,Loja Norte B,1743.48,94,25,46,23,Norte,Delivery
+2026-04-12,Loja Norte C,2473.28,87,30,34,23,Norte,Delivery
+2026-04-12,Loja Sul A,4366.57,142,30,49,63,Sul,Loja Física
+2026-04-12,Loja Sul B,4433.5,135,44,52,39,Sul,Loja Física
+2026-04-12,Loja Sul C,646.11,60,23,29,8,Sul,Loja Física
+2026-04-12,Loja Leste A,3342.17,137,50,45,42,Leste,Loja Física
+2026-04-12,Loja Leste B,3401.59,102,28,47,27,Leste,Loja Física
+2026-04-12,Loja Leste C,3609.86,178,54,73,51,Leste,Delivery
+2026-04-12,Loja Oeste A,4823.91,190,44,65,81,Oeste,Delivery
+2026-04-12,Loja Oeste B,1370.65,175,60,80,35,Oeste,Delivery
+2026-04-12,Loja Oeste C,3637.29,183,50,76,57,Oeste,Delivery
+2026-04-12,Loja Central A,517.36,77,25,25,27,Central,Loja Física
+2026-04-12,Loja Central B,1370.19,50,19,22,9,Central,Delivery
+2026-04-12,Loja Central C,1312.34,86,29,31,26,Central,Delivery
+2026-04-13,Loja Norte A,2940.17,127,39,40,48,Norte,Loja Física
+2026-04-13,Loja Norte B,467.47,56,14,19,23,Norte,Loja Física
+2026-04-13,Loja Norte C,615.09,67,26,25,16,Norte,Delivery
+2026-04-13,Loja Sul A,752.77,153,48,56,49,Sul,Delivery
+2026-04-13,Loja Sul B,1273.97,103,33,49,21,Sul,Loja Física
+2026-04-13,Loja Sul C,3197.14,175,52,64,59,Sul,Delivery
+2026-04-13,Loja Leste A,3409.11,171,47,69,55,Leste,Loja Física
+2026-04-13,Loja Leste B,2443.97,158,51,58,49,Leste,Delivery
+2026-04-13,Loja Leste C,539.44,56,21,25,10,Leste,Loja Física
+2026-04-13,Loja Oeste A,2400.42,171,37,59,75,Oeste,Loja Física
+2026-04-13,Loja Oeste B,1603.61,166,44,69,53,Oeste,Delivery
+2026-04-13,Loja Oeste C,666.53,58,18,25,15,Oeste,Delivery
+2026-04-13,Loja Central A,2399.74,105,22,45,38,Central,Loja Física
+2026-04-13,Loja Central B,2945.57,179,53,70,56,Central,Delivery
+2026-04-13,Loja Central C,3493.33,187,39,78,70,Central,Delivery
+2026-04-14,Loja Norte A,1606.58,94,24,31,39,Norte,Delivery
+2026-04-14,Loja Norte B,2726.53,134,45,66,23,Norte,Loja Física
+2026-04-14,Loja Norte C,1796.23,100,24,37,39,Norte,Loja Física
+2026-04-14,Loja Sul A,1158.32,146,34,53,59,Sul,Delivery
+2026-04-14,Loja Sul B,2043.59,108,39,52,17,Sul,Loja Física
+2026-04-14,Loja Sul C,951.9,75,16,37,22,Sul,Loja Física
+2026-04-14,Loja Leste A,3193.06,162,58,62,42,Leste,Delivery
+2026-04-14,Loja Leste B,1448.38,189,55,67,67,Leste,Delivery
+2026-04-14,Loja Leste C,549.05,67,16,32,19,Leste,Delivery
+2026-04-14,Loja Oeste A,3470.97,171,65,82,24,Oeste,Loja Física
+2026-04-14,Loja Oeste B,784.34,80,17,26,37,Oeste,Loja Física
+2026-04-14,Loja Oeste C,1963.96,164,50,67,47,Oeste,Delivery
+2026-04-14,Loja Central A,1376.46,67,22,27,18,Central,Loja Física
+2026-04-14,Loja Central B,1427.48,193,46,69,78,Central,Delivery
+2026-04-14,Loja Central C,1044.6,52,15,15,22,Central,Delivery
+2026-04-15,Loja Norte A,2231.3,199,51,91,57,Norte,Delivery
+2026-04-15,Loja Norte B,3279.55,112,40,37,35,Norte,Delivery
+2026-04-15,Loja Norte C,2973.67,172,37,64,71,Norte,Loja Física
+2026-04-15,Loja Sul A,2437.91,87,32,28,27,Sul,Loja Física
+2026-04-15,Loja Sul B,2628.05,172,68,71,33,Sul,Loja Física
+2026-04-15,Loja Sul C,3114.1,155,42,53,60,Sul,Delivery
+2026-04-15,Loja Leste A,1348.44,154,44,73,37,Leste,Delivery
+2026-04-15,Loja Leste B,837.03,57,19,21,17,Leste,Delivery
+2026-04-15,Loja Leste C,2245.65,107,24,45,38,Leste,Delivery
+2026-04-15,Loja Oeste A,818.99,90,27,35,28,Oeste,Loja Física
+2026-04-15,Loja Oeste B,2065.38,160,45,65,50,Oeste,Loja Física
+2026-04-15,Loja Oeste C,544.47,60,16,23,21,Oeste,Delivery
+2026-04-15,Loja Central A,2347.36,127,40,61,26,Central,Delivery
+2026-04-15,Loja Central B,2797.69,180,63,84,33,Central,Loja Física
+2026-04-15,Loja Central C,1372.34,170,57,84,29,Central,Loja Física
+2026-04-16,Loja Norte A,2073.39,114,44,54,16,Norte,Loja Física
+2026-04-16,Loja Norte B,2684.34,130,34,45,51,Norte,Loja Física
+2026-04-16,Loja Norte C,2430.22,139,33,51,55,Norte,Delivery
+2026-04-16,Loja Sul A,1692.88,121,34,52,35,Sul,Loja Física
+2026-04-16,Loja Sul B,1348.12,125,42,55,28,Sul,Delivery
+2026-04-16,Loja Sul C,2328.37,102,32,34,36,Sul,Delivery
+2026-04-16,Loja Leste A,1252.28,113,40,52,21,Leste,Loja Física
+2026-04-16,Loja Leste B,1864.56,177,49,78,50,Leste,Delivery
+2026-04-16,Loja Leste C,1938.44,187,46,58,83,Leste,Loja Física
+2026-04-16,Loja Oeste A,3140.3,146,57,43,46,Oeste,Loja Física
+2026-04-16,Loja Oeste B,2610.13,115,33,57,25,Oeste,Delivery
+2026-04-16,Loja Oeste C,2363.34,180,43,55,82,Oeste,Delivery
+2026-04-16,Loja Central A,3632.62,175,51,66,58,Central,Loja Física
+2026-04-16,Loja Central B,1021.08,85,23,39,23,Central,Loja Física
+2026-04-16,Loja Central C,1613.11,60,15,24,21,Central,Delivery
+2026-04-17,Loja Norte A,2043.55,82,31,35,16,Norte,Loja Física
+2026-04-17,Loja Norte B,2019.63,60,18,18,24,Norte,Delivery
+2026-04-17,Loja Norte C,991.72,120,29,41,50,Norte,Delivery
+2026-04-17,Loja Sul A,3446.62,191,47,58,86,Sul,Delivery
+2026-04-17,Loja Sul B,1184.79,106,41,39,26,Sul,Loja Física
+2026-04-17,Loja Sul C,804.8,91,31,45,15,Sul,Delivery
+2026-04-17,Loja Leste A,1056.21,174,43,66,65,Leste,Loja Física
+2026-04-17,Loja Leste B,3119.51,167,63,80,24,Leste,Delivery
+2026-04-17,Loja Leste C,357.61,77,25,29,23,Leste,Delivery
+2026-04-17,Loja Oeste A,2617.74,164,36,51,77,Oeste,Delivery
+2026-04-17,Loja Oeste B,1495.49,163,61,76,26,Oeste,Delivery
+2026-04-17,Loja Oeste C,1213.74,55,13,26,16,Oeste,Delivery
+2026-04-17,Loja Central A,3214.53,161,49,58,54,Central,Delivery
+2026-04-17,Loja Central B,2059.08,179,65,75,39,Central,Delivery
+2026-04-17,Loja Central C,1626.8,86,27,37,22,Central,Delivery
+2026-04-18,Loja Norte A,1611.66,93,22,33,38,Norte,Delivery
+2026-04-18,Loja Norte B,1549.13,120,30,41,49,Norte,Delivery
+2026-04-18,Loja Norte C,1608.87,56,17,24,15,Norte,Loja Física
+2026-04-18,Loja Sul A,2119.46,165,33,68,64,Sul,Delivery
+2026-04-18,Loja Sul B,1451.81,147,42,57,48,Sul,Delivery
+2026-04-18,Loja Sul C,824.26,72,19,25,28,Sul,Delivery
+2026-04-18,Loja Leste A,1725.9,172,41,71,60,Leste,Loja Física
+2026-04-18,Loja Leste B,2041.33,59,16,26,17,Leste,Loja Física
+2026-04-18,Loja Leste C,867.22,90,30,27,33,Leste,Loja Física
+2026-04-18,Loja Oeste A,4870.86,184,53,65,66,Oeste,Delivery
+2026-04-18,Loja Oeste B,4149.89,121,28,46,47,Oeste,Loja Física
+2026-04-18,Loja Oeste C,1012.24,183,68,77,38,Oeste,Loja Física
+2026-04-18,Loja Central A,2612.78,123,47,58,18,Central,Loja Física
+2026-04-18,Loja Central B,1433.21,54,12,23,19,Central,Loja Física
+2026-04-18,Loja Central C,839.12,75,26,30,19,Central,Delivery
+2026-04-19,Loja Norte A,2878.44,191,65,63,63,Norte,Loja Física
+2026-04-19,Loja Norte B,1701.27,112,29,37,46,Norte,Delivery
+2026-04-19,Loja Norte C,5700.32,181,54,86,41,Norte,Delivery
+2026-04-19,Loja Sul A,1233.45,84,24,39,21,Sul,Loja Física
+2026-04-19,Loja Sul B,3203.1,144,36,50,58,Sul,Loja Física
+2026-04-19,Loja Sul C,1351.57,78,18,32,28,Sul,Loja Física
+2026-04-19,Loja Leste A,1885.69,67,15,23,29,Leste,Delivery
+2026-04-19,Loja Leste B,3807.8,151,52,72,27,Leste,Delivery
+2026-04-19,Loja Leste C,1806.19,183,58,81,44,Leste,Delivery
+2026-04-19,Loja Oeste A,2691.77,114,32,45,37,Oeste,Delivery
+2026-04-19,Loja Oeste B,1236.83,82,19,34,29,Oeste,Delivery
+2026-04-19,Loja Oeste C,1409.69,126,47,47,32,Oeste,Delivery
+2026-04-19,Loja Central A,1444.54,145,43,65,37,Central,Loja Física
+2026-04-19,Loja Central B,4842.71,161,56,62,43,Central,Loja Física
+2026-04-19,Loja Central C,1683.45,127,29,60,38,Central,Delivery
+2026-04-20,Loja Norte A,1779.78,114,33,44,37,Norte,Loja Física
+2026-04-20,Loja Norte B,1364.12,168,65,58,45,Norte,Loja Física
+2026-04-20,Loja Norte C,932.46,75,15,29,31,Norte,Delivery
+2026-04-20,Loja Sul A,1767.17,160,41,74,45,Sul,Delivery
+2026-04-20,Loja Sul B,1871.52,60,22,23,15,Sul,Delivery
+2026-04-20,Loja Sul C,1250.73,134,51,44,39,Sul,Loja Física
+2026-04-20,Loja Leste A,2185.48,87,27,27,33,Leste,Loja Física
+2026-04-20,Loja Leste B,2451.07,183,53,67,63,Leste,Delivery
+2026-04-20,Loja Leste C,3109.84,138,35,42,61,Leste,Loja Física
+2026-04-20,Loja Oeste A,2502.65,162,46,65,51,Oeste,Loja Física
+2026-04-20,Loja Oeste B,2437.92,89,24,38,27,Oeste,Delivery
+2026-04-20,Loja Oeste C,1038.6,118,41,40,37,Oeste,Delivery
+2026-04-20,Loja Central A,1686.0,120,25,43,52,Central,Loja Física
+2026-04-20,Loja Central B,1146.19,99,23,45,31,Central,Loja Física
+2026-04-20,Loja Central C,2611.32,159,39,76,44,Central,Loja Física
+2026-04-21,Loja Norte A,701.42,66,13,29,24,Norte,Loja Física
+2026-04-21,Loja Norte B,1103.01,106,42,51,13,Norte,Delivery
+2026-04-21,Loja Norte C,546.31,79,23,37,19,Norte,Delivery
+2026-04-21,Loja Sul A,2950.07,170,42,69,59,Sul,Delivery
+2026-04-21,Loja Sul B,3232.73,133,44,62,27,Sul,Delivery
+2026-04-21,Loja Sul C,1290.99,112,22,44,46,Sul,Delivery
+2026-04-21,Loja Leste A,3069.55,180,71,89,20,Leste,Loja Física
+2026-04-21,Loja Leste B,2916.96,126,31,58,37,Leste,Loja Física
+2026-04-21,Loja Leste C,2739.08,106,26,50,30,Leste,Loja Física
+2026-04-21,Loja Oeste A,4323.17,188,53,71,64,Oeste,Delivery
+2026-04-21,Loja Oeste B,1406.66,126,29,49,48,Oeste,Loja Física
+2026-04-21,Loja Oeste C,4140.19,130,27,49,54,Oeste,Delivery
+2026-04-21,Loja Central A,1627.16,89,35,32,22,Central,Delivery
+2026-04-21,Loja Central B,1353.83,80,23,39,18,Central,Delivery
+2026-04-21,Loja Central C,2711.04,200,57,69,74,Central,Loja Física
+2026-04-22,Loja Norte A,919.22,92,29,38,25,Norte,Loja Física
+2026-04-22,Loja Norte B,828.23,75,26,22,27,Norte,Delivery
+2026-04-22,Loja Norte C,3803.98,176,68,80,28,Norte,Loja Física
+2026-04-22,Loja Sul A,363.01,63,14,20,29,Sul,Delivery
+2026-04-22,Loja Sul B,2536.79,141,30,46,65,Sul,Delivery
+2026-04-22,Loja Sul C,1647.03,134,53,42,39,Sul,Loja Física
+2026-04-22,Loja Leste A,1387.52,50,11,16,23,Leste,Delivery
+2026-04-22,Loja Leste B,2176.36,175,55,74,46,Leste,Loja Física
+2026-04-22,Loja Leste C,1355.78,122,35,57,30,Leste,Loja Física
+2026-04-22,Loja Oeste A,1696.38,181,58,79,44,Oeste,Loja Física
+2026-04-22,Loja Oeste B,2956.03,150,49,65,36,Oeste,Delivery
+2026-04-22,Loja Oeste C,2216.33,141,36,60,45,Oeste,Delivery
+2026-04-22,Loja Central A,5001.77,157,38,78,41,Central,Delivery
+2026-04-22,Loja Central B,1830.0,133,38,58,37,Central,Loja Física
+2026-04-22,Loja Central C,388.22,70,26,23,21,Central,Delivery
+2026-04-23,Loja Norte A,1017.77,82,17,37,28,Norte,Delivery
+2026-04-23,Loja Norte B,1392.88,198,58,75,65,Norte,Delivery
+2026-04-23,Loja Norte C,2667.96,103,34,38,31,Norte,Delivery
+2026-04-23,Loja Sul A,1970.35,99,20,46,33,Sul,Delivery
+2026-04-23,Loja Sul B,1185.22,149,44,64,41,Sul,Delivery
+2026-04-23,Loja Sul C,1440.62,132,47,59,26,Sul,Delivery
+2026-04-23,Loja Leste A,4770.42,130,45,61,24,Leste,Loja Física
+2026-04-23,Loja Leste B,954.75,51,11,17,23,Leste,Loja Física
+2026-04-23,Loja Leste C,5845.97,174,46,53,75,Leste,Loja Física
+2026-04-23,Loja Oeste A,1933.98,111,33,39,39,Oeste,Loja Física
+2026-04-23,Loja Oeste B,1348.22,96,34,40,22,Oeste,Delivery
+2026-04-23,Loja Oeste C,1425.9,145,32,65,48,Oeste,Loja Física
+2026-04-23,Loja Central A,1178.25,104,34,49,21,Central,Delivery
+2026-04-23,Loja Central B,2562.68,185,56,77,52,Central,Loja Física
+2026-04-23,Loja Central C,3379.63,161,55,49,57,Central,Delivery
+2026-04-24,Loja Norte A,4134.95,187,54,66,67,Norte,Loja Física
+2026-04-24,Loja Norte B,4008.5,154,60,48,46,Norte,Delivery
+2026-04-24,Loja Norte C,5338.84,168,54,58,56,Norte,Delivery
+2026-04-24,Loja Sul A,1378.59,107,27,46,34,Sul,Loja Física
+2026-04-24,Loja Sul B,2128.72,108,34,40,34,Sul,Loja Física
+2026-04-24,Loja Sul C,2808.45,185,45,85,55,Sul,Loja Física
+2026-04-24,Loja Leste A,1352.73,151,31,47,73,Leste,Delivery
+2026-04-24,Loja Leste B,3773.44,187,57,71,59,Leste,Delivery
+2026-04-24,Loja Leste C,1310.27,63,19,25,19,Leste,Delivery
+2026-04-24,Loja Oeste A,2780.89,79,30,29,20,Oeste,Delivery
+2026-04-24,Loja Oeste B,2163.5,95,22,41,32,Oeste,Loja Física
+2026-04-24,Loja Oeste C,1701.61,134,52,40,42,Oeste,Loja Física
+2026-04-24,Loja Central A,831.79,116,29,40,47,Central,Loja Física
+2026-04-24,Loja Central B,1953.54,159,37,50,72,Central,Delivery
+2026-04-24,Loja Central C,4960.46,129,43,55,31,Central,Loja Física
+2026-04-25,Loja Norte A,1404.99,89,32,26,31,Norte,Loja Física
+2026-04-25,Loja Norte B,1924.71,66,23,32,11,Norte,Loja Física
+2026-04-25,Loja Norte C,1875.12,79,21,31,27,Norte,Delivery
+2026-04-25,Loja Sul A,1093.5,180,60,64,56,Sul,Loja Física
+2026-04-25,Loja Sul B,2886.41,141,38,53,50,Sul,Loja Física
+2026-04-25,Loja Sul C,4748.95,189,65,91,33,Sul,Loja Física
+2026-04-25,Loja Leste A,607.63,66,17,26,23,Leste,Loja Física
+2026-04-25,Loja Leste B,4128.51,172,60,63,49,Leste,Delivery
+2026-04-25,Loja Leste C,3830.5,149,42,68,39,Leste,Delivery
+2026-04-25,Loja Oeste A,1194.51,104,33,41,30,Oeste,Loja Física
+2026-04-25,Loja Oeste B,2246.13,108,41,49,18,Oeste,Delivery
+2026-04-25,Loja Oeste C,1932.76,149,40,71,38,Oeste,Loja Física
+2026-04-25,Loja Central A,1440.17,165,51,50,64,Central,Delivery
+2026-04-25,Loja Central B,1508.99,136,49,67,20,Central,Delivery
+2026-04-25,Loja Central C,898.75,71,15,28,28,Central,Loja Física
